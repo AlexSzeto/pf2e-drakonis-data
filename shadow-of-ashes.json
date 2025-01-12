@@ -10,6 +10,10 @@
     {
       "label": "The Blighted Catacombs",
       "path": "blighted-catacombs.md"
+    },
+    {
+      "label": "Campaign Overview",
+      "path": "campaign-overview.md"
     }
   ],
   "maps": [

@@ -1,7 +1,7 @@
 {
   "name": "The Wedding Curse",
   "description": "A one shot adventure for Pathfinder 2E Remastered",
-  "filename": "the-wedding-curse",
+  "id": "the-wedding-curse",
   "docs": [
     {
       "label": "Characters",

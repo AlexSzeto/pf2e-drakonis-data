@@ -36,11 +36,14 @@ Roll d4 to determine spawn point, or block player directly trying to enter next 
 ### Collapsed room to cavern
 Rotted wood, room purpose unknown. Collapsed section leads to cavern
 
+![Cavern Ambush](battlemap-caverns.jpg)
+
 ### Cavern
-Dagon body burning
+Dagon body prepared to burn
 Leader has backpack with:
 `gold` (?)
 `note` (latest password)
 more food and waterskin
 
-Group stealth (+6) vs Perception
+Group stealth (+5) vs Perception
+3x Warrior, Leader, Oracle

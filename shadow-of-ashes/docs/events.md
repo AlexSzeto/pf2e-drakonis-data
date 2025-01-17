@@ -1,43 +1,37 @@
-# TEST!
+### Wedding night
+Tavern uneventful. 
 
-## CON Harrow Points
-- Con based skill rolls
-- rest 1 minute, +Heal equal to Character Level, Heal 1 pt of ability damage
-- +3 DR until end of encounter
+### Celebration day
+Morning - message from Lumi:
+```
+1 hour past Starrise at the Gaping Maw, don't be late
+P*S* Father knew where I'll be and we're bringing protection. I'm not that dumb.
+```
+Two guards stands outside, hidden.
 
-## Lavender's Luxurious Ligament
-- Sugar
-- Perfume
-- River Water
+Food is delicious. seafood everywhere.
 
-## Loot
-- Crossbow
-- Screaming Bolt +2
-- Sculped Corpse (5 charges)
+Salvia shows up to play
+Auric visibly moved
+People argue, bar fight erupts
 
-## Plague Doctor's Mask
-+2 vs. Nausiating Smell
-Immunity to a type of disease
--2 to Hit
+### The Hangover
+Summoned by Edwin this time
 
-## Blood Veil
-- Vorral's Phage
+> Dagon had escaped. He wasn't telling us anything before he disappeared. There's always a guard on watch and the lock is not tempered. Can you look into it, for free?
 
-+30 ft
-stand up no provoke
-+2 attack rolls +2 AC
-cast level 2 
+### Secret Tunnels
 
-## Loot Pile
+PCs find Dagon diary.
+- Info about the Burning Hand cult (easy)
+- Fact that the cult dwelling requires a password to open that rotates (medium)
+- Most recent entry about the tunnel collapse, signs of the cave worm
+ 
+### Morning after
+Lumi and Auric departs, Auric leaves notes for PCs
 
-+1 Mithril Chain Shirt
-+1 Human Bane Rapier - TAKEN
-+1 Amulet of Natural Armor
-Potion of Remove Disease
-Potion of Barkskin +4
-+2 Vicious Scythe
-Belt of Mighty Constitution +2 - TAKEN
-Cloak of Resistance +2 - TAKEN
-Headband of Wisdom +2 - TAKEN
-Symbol of Urgatoa
-Wand of Magic Missile Caster Lv 3 Charges x40
+```
+The location of Mak Gorim had been revealed.
+I would feel a lot safer if the secret hidden is in your hands.
+Take this amulet to light the way when you're lost.
+```

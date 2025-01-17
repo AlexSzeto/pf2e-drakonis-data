@@ -4,8 +4,16 @@
   "id": "shadow-of-ashes",
   "docs": [
     {
+      "label": "Events",
+      "path": "events.md"
+    },
+    {
       "label": "Characters",
       "path": "characters.md"
+    },
+    {
+      "label": "Stormhaven",
+      "path": "stormhaven.md"
     },
     {
       "label": "The Blighted Catacombs",
@@ -21,6 +29,10 @@
     {
       "label": "Location Archives",
       "path": "location-archives.png"
+    },
+    {
+      "label": "Location Bazarr",
+      "path": "location-bazaar.png"
     },
     {
       "label": "Location Catacombs Interior",
@@ -99,12 +111,24 @@
       "path": "location-warehouse-interior.png"
     },
     {
+      "label": "Location Gaping Maw",
+      "path": "location-gaping-maw.png"
+    },
+    {
       "label": "Map Stormhaven",
       "path": "map-stormhaven.png"
     },
     {
       "label": "Map Uruzad",
       "path": "map-uruzad.jpg"
+    },
+    {
+      "label": "Portrait Iga",
+      "path": "portrait-iga.png"
+    },
+    {
+      "label": "Portrait Salvia",
+      "path": "portrait-salvia.png"
     },
     {
       "label": "Portrait Annabelle",

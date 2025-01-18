@@ -28,95 +28,95 @@
   "images": [
     {
       "label": "Location Archives",
-      "path": "location-archives.png"
+      "path": "location-archives.jpg"
     },
     {
       "label": "Location Bazarr",
-      "path": "location-bazaar.png"
+      "path": "location-bazaar.jpg"
     },
     {
       "label": "Location Catacombs Interior",
-      "path": "location-catacombs-interior.png"
+      "path": "location-catacombs-interior.jpg"
     },
     {
       "label": "Location Greywater",
-      "path": "location-greywater.png"
+      "path": "location-greywater.jpg"
     },
     {
       "label": "Location Lumi Room",
-      "path": "location-lumi-room.png"
+      "path": "location-lumi-room.jpg"
     },
     {
       "label": "Location Manor Exterior",
-      "path": "location-manor-exterior.png"
+      "path": "location-manor-exterior.jpg"
     },
     {
       "label": "Location Manor Study",
-      "path": "location-manor-study.png"
+      "path": "location-manor-study.jpg"
     },
     {
       "label": "Location Ruins Body",
-      "path": "location-ruins-body.png"
+      "path": "location-ruins-body.jpg"
     },
     {
       "label": "Location Ruins Catacomb Entrance",
-      "path": "location-ruins-catacomb-entrance.png"
+      "path": "location-ruins-catacomb-entrance.jpg"
     },
     {
       "label": "Location Ruins Clearing",
-      "path": "location-ruins-clearing.png"
+      "path": "location-ruins-clearing.jpg"
     },
     {
       "label": "Location Ruins Keep",
-      "path": "location-ruins-keep.png"
+      "path": "location-ruins-keep.jpg"
     },
     {
       "label": "Location Ruins Random 1",
-      "path": "location-ruins-random-1.png"
+      "path": "location-ruins-random-1.jpg"
     },
     {
       "label": "Location Ruins Random 2",
-      "path": "location-ruins-random-2.png"
+      "path": "location-ruins-random-2.jpg"
     },
     {
       "label": "Location Ruins Random 3",
-      "path": "location-ruins-random-3.png"
+      "path": "location-ruins-random-3.jpg"
     },
     {
       "label": "Location Ruins Sunset",
-      "path": "location-ruins-sunset.png"
+      "path": "location-ruins-sunset.jpg"
     },
     {
       "label": "Location Stormhaven",
-      "path": "location-stormhaven.png"
+      "path": "location-stormhaven.jpg"
     },
     {
       "label": "Location Tavern at Night",
-      "path": "location-tavern-at-night.png"
+      "path": "location-tavern-at-night.jpg"
     },
     {
       "label": "Location Tea House",
-      "path": "location-tea-house.png"
+      "path": "location-tea-house.jpg"
     },
     {
       "label": "Location Warehouse Dock",
-      "path": "location-warehouse-dock.png"
+      "path": "location-warehouse-dock.jpg"
     },
     {
       "label": "Location Warehouse Exterior",
-      "path": "location-warehouse-exterior.png"
+      "path": "location-warehouse-exterior.jpg"
     },
     {
       "label": "Location Warehouse Interior",
-      "path": "location-warehouse-interior.png"
+      "path": "location-warehouse-interior.jpg"
     },
     {
       "label": "Location Gaping Maw",
-      "path": "location-gaping-maw.png"
+      "path": "location-gaping-maw.jpg"
     },
     {
       "label": "Map Stormhaven",
-      "path": "map-stormhaven.png"
+      "path": "map-stormhaven.jpg"
     },
     {
       "label": "Map Uruzad",
@@ -124,75 +124,75 @@
     },
     {
       "label": "Portrait Iga",
-      "path": "portrait-iga.png"
+      "path": "portrait-iga.jpg"
     },
     {
       "label": "Portrait Salvia",
-      "path": "portrait-salvia.png"
+      "path": "portrait-salvia.jpg"
     },
     {
       "label": "Portrait Annabelle",
-      "path": "portrait-annabelle.png"
+      "path": "portrait-annabelle.jpg"
     },
     {
       "label": "Portrait Auric",
-      "path": "portrait-auric.png"
+      "path": "portrait-auric.jpg"
     },
     {
       "label": "Portrait Bulo",
-      "path": "portrait-bulo.png"
+      "path": "portrait-bulo.jpg"
     },
     {
       "label": "Portrait Burt",
-      "path": "portrait-burt.png"
+      "path": "portrait-burt.jpg"
     },
     {
       "label": "Portrait Dak Gorim",
-      "path": "portrait-dak-gorim.png"
+      "path": "portrait-dak-gorim.jpg"
     },
     {
       "label": "Portrait Daramir",
-      "path": "portrait-daramir.png"
+      "path": "portrait-daramir.jpg"
     },
     {
       "label": "Portrait Dargon",
-      "path": "portrait-dargon.png"
+      "path": "portrait-dargon.jpg"
     },
     {
       "label": "Portrait Edwin",
-      "path": "portrait-edwin.png"
+      "path": "portrait-edwin.jpg"
     },
     {
       "label": "Portrait Fadon",
-      "path": "portrait-fadon.png"
+      "path": "portrait-fadon.jpg"
     },
     {
       "label": "Portrait Jerod",
-      "path": "portrait-jerod.png"
+      "path": "portrait-jerod.jpg"
     },
     {
       "label": "Portrait Kerissa",
-      "path": "portrait-kerissa.png"
+      "path": "portrait-kerissa.jpg"
     },
     {
       "label": "Portrait Kurnov Hawkridge",
-      "path": "portrait-kurnov-hawkridge.png"
+      "path": "portrait-kurnov-hawkridge.jpg"
     },
     {
       "label": "Portrait Lumiere Armored",
-      "path": "portrait-lumiere-armored.png"
+      "path": "portrait-lumiere-armored.jpg"
     },
     {
       "label": "Portrait Lumiere Dress",
-      "path": "portrait-lumiere-dress.png"
+      "path": "portrait-lumiere-dress.jpg"
     },
     {
       "label": "Portrait Rahul Kamal",
-      "path": "portrait-rahul-kamal.png"
+      "path": "portrait-rahul-kamal.jpg"
     },
     {
       "label": "Portrait Reaven",
-      "path": "portrait-reaven.png"
+      "path": "portrait-reaven.jpg"
     },
     {
       "label": "Wedding Invitation",
@@ -2171,7 +2171,7 @@
         },
         {
           "name": "Items",
-          "text": "scale armor, long sword",
+          "text": "scale armor, long sword +1, mesmerizing opal (2)",
           "newline": true
         },
         {

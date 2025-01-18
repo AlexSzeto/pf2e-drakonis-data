@@ -22,6 +22,22 @@ Verzog Keep
 Who is The Herald?
 - Agent of prince Mordok
 
+# Subraces
+Harpy+Centaur -> Zephrites
+Osmosis -> Eidran
+Beast -> Varganths
+Malkavians -> Felscribed
+
+# The Dragon Gods of Drakonis
+
+Solaris
+Xovina
+Tharudain
+
+Nyxalis
+Pyra
+Aelindra
+
 # Big picture events
 
 ## Pre story

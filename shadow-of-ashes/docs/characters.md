@@ -2,8 +2,8 @@
 ![img](portrait-iga.png)
 Stocky, angry, oily, blunt, but fair
 
-### Salvia
-![img](portrait-salvia.png)
+### Brisa Gale
+![img](portrait-brisa.png)
 Too tall for a halfling, too human like to be an elf, hard to pin down race.
 Energetic, spunky, cheerful
 

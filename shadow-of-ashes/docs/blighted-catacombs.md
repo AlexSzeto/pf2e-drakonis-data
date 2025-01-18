@@ -40,7 +40,7 @@ Rotted wood, room purpose unknown. Collapsed section leads to cavern
 
 ### Cavern
 Dagon body prepared to burn
-Leader has backpack with:
+Leader *Gak* has backpack with:
 `gold` (?)
 `note` (latest password)
 more food and waterskin

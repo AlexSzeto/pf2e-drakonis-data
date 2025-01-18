@@ -7,13 +7,21 @@ Morning - message from Lumi:
 1 hour past Starrise at the Gaping Maw, don't be late
 P*S* Father knew where I'll be and we're bringing protection. I'm not that dumb.
 ```
-Two guards stands outside, hidden.
+For elven elite guards (farstriders) stands outside, hidden.
 
 Food is delicious. seafood everywhere.
 
-Salvia shows up to play
+Gambling ante is 1sp, collectively 2d20 sp for bets
+The game is Pyra's Touch - equal numbers of bets in red marbles, 1+players black
+If you draw red you keep drawing, if you draw black you are out
+
+Cheat?
+
+Brisa shows up to play
 Auric visibly moved
 People argue, bar fight erupts
+
+> When destiny finds you, it merely graces you with the power to truly change the world
 
 ### The Hangover
 Summoned by Edwin this time

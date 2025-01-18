@@ -27,6 +27,50 @@
   "maps": [],
   "images": [
     {
+      "label": "NPC merchant",
+      "path": "npc-merchant.jpg"
+    },
+    {
+      "label": "NPC blacksmith",
+      "path": "npc-blacksmith.jpg"
+    },
+    {
+      "label": "NPC alchemist",
+      "path": "npc-alchemist.jpg"
+    },
+    {
+      "label": "NPC noble A",
+      "path": "npc-noble-a.jpg"
+    },
+    {
+      "label": "NPC noble B",
+      "path": "npc-noble-b.jpg"
+    },
+    {
+      "label": "NPC noble C",
+      "path": "npc-noble-c.jpg"
+    },
+    {
+      "label": "NPC noble D",
+      "path": "npc-noble-d.jpg"
+    },
+    {
+      "label": "NPC noble E",
+      "path": "npc-noble-e.jpg"
+    },
+    {
+      "label": "NPC merchant 2",
+      "path": "npc-merchant-2.jpg"
+    },
+    {
+      "label": "NPC jeweler",
+      "path": "npc-jeweler.jpg"
+    },
+    {
+      "label": "NPC baker",
+      "path": "npc-baker.jpg"
+    },
+    {
       "label": "Location Archives",
       "path": "location-archives.jpg"
     },
@@ -115,6 +159,10 @@
       "path": "location-gaping-maw.jpg"
     },
     {
+      "label": "Map Drakonis",
+      "path": "map-drakonis.jpg"
+    },
+    {
       "label": "Map Stormhaven",
       "path": "map-stormhaven.jpg"
     },
@@ -201,6 +249,18 @@
   ],
   "bgms": [
     {
+      "label": "Fireball Lightning Repeat",
+      "path": "fireball-lightning-repeat-bgm.mp3"
+    },
+    {
+      "label": "Watch Your Behind",
+      "path": "watch-your-behind-bgm.mp3"
+    },
+    {
+      "label": "Tears of Xovina",
+      "path": "tears-of-xovina.mp3"
+    },
+    {
       "label": "Arise Dak Gorim",
       "path": "arise-dak-gorim-bgm.mp3"
     },
@@ -246,6 +306,14 @@
     }
   ],
   "ambiences": [
+    {
+      "label": "Bazaar Ambience",
+      "path": "bazaar-ambience.mp3"
+    },
+    {
+      "label": "Cavern Stream Ambience",
+      "path": "cavern-stream-ambience.mp3"
+    },
     {
       "label": "Archives Ambience",
       "path": "archives-ambience.mp3"

@@ -253,6 +253,10 @@
   ],
   "bgms": [
     {
+      "label": "TEST",
+      "path": "test-ode-to-stormhaven.mp3"
+    },
+    {
       "label": "Fireball Lightning Repeat",
       "path": "fireball-lightning-repeat-bgm.mp3"
     },
@@ -310,6 +314,10 @@
     }
   ],
   "ambiences": [
+    {
+      "label": "TEST",
+      "path": "test-the-great-bazaar.mp3"
+    },
     {
       "label": "Bazaar Ambience",
       "path": "bazaar-ambience.mp3"

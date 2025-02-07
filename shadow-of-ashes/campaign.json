@@ -253,10 +253,6 @@
   ],
   "bgms": [
     {
-      "label": "TEST",
-      "path": "test-ode-to-stormhaven.mp3"
-    },
-    {
       "label": "Fireball Lightning Repeat",
       "path": "fireball-lightning-repeat-bgm.mp3"
     },
@@ -314,10 +310,6 @@
     }
   ],
   "ambiences": [
-    {
-      "label": "TEST",
-      "path": "test-the-great-bazaar.mp3"
-    },
     {
       "label": "Bazaar Ambience",
       "path": "bazaar-ambience.mp3"
@@ -2394,6 +2386,82 @@
         {
           "name": "Scamper",
           "text": "Same as other kobolds",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Carrion Beetle",
+      "type": "Creature 0",
+      "traits": [
+        "Small"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+8; low-light vision"
+        },
+        {
+          "name": "Skills",
+          "text": "Acrobatics +8, Athletics +6",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+1",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+3"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "-2"
+        },
+        {
+          "name": "AC",
+          "text": "18",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+6"
+        },
+        {
+          "name": "Ref",
+          "text": "+9"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "text": "20",
+          "newline": true
+        },
+        {
+          "name": "Speed",
+          "text": "20",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "mandibles +9 1d4 piercing + 1d2 acid",
           "newline": true
         }
       ]

@@ -75,6 +75,14 @@
       "path": "npc-baker.jpg"
     },
     {
+      "label": "Location Necropolis",
+      "path": "location-necropolis.jpg"
+    },
+    {
+      "label": "Location Limestone Cavern",
+      "path": "location-limestone-cavern.jpg"
+    },
+    {
       "label": "Location Archives",
       "path": "location-archives.jpg"
     },
@@ -355,9 +363,7 @@
     {
       "name": "Dagon",
       "type": "Cleric 2",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -445,9 +451,7 @@
     {
       "name": "Reaven",
       "type": "Fighter 2",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -551,13 +555,7 @@
     {
       "name": "Skeleton Guard",
       "type": "Creature -1",
-      "traits": [
-        "Medium",
-        "Mindless",
-        "Skeleton",
-        "Undead",
-        "Unholy"
-      ],
+      "traits": ["Medium", "Mindless", "Skeleton", "Undead", "Unholy"],
       "description": "**Recall Knowledge** Undead (Religion) DC13",
       "stats": [
         {
@@ -657,10 +655,7 @@
     {
       "name": "Hyena",
       "type": "Creature 1",
-      "traits": [
-        "Medium",
-        "Animal"
-      ],
+      "traits": ["Medium", "Animal"],
       "description": "**Recall Knowledge** Animal (Nature) DC15",
       "stats": [
         {
@@ -745,9 +740,7 @@
     {
       "name": "Jerod",
       "type": "Wizard 3",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -836,12 +829,7 @@
     {
       "name": "Dak Gorim",
       "type": "Creature 4",
-      "traits": [
-        "Medium",
-        "Undead",
-        "Unholy",
-        "Vampire"
-      ],
+      "traits": ["Medium", "Undead", "Unholy", "Vampire"],
       "stats": [
         {
           "name": "Perception",
@@ -942,9 +930,7 @@
     {
       "name": "Lumiere Haycrest",
       "type": "Rogue 1",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -1023,9 +1009,7 @@
     {
       "name": "Auric Ionar",
       "type": "Creature 0",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -1104,9 +1088,7 @@
     {
       "name": "Stormhaven Guard",
       "type": "Creature 0",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -1190,10 +1172,7 @@
     {
       "name": "Gutter Enforcer",
       "type": "Creature 0",
-      "traits": [
-        "Medium",
-        "Human"
-      ],
+      "traits": ["Medium", "Human"],
       "stats": [
         {
           "name": "Perception",
@@ -1267,9 +1246,7 @@
     {
       "name": "Gutter Goon",
       "type": "Creature 0",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -1354,11 +1331,7 @@
     {
       "name": "Spider Swarm",
       "type": "Creature 0",
-      "traits": [
-        "Large",
-        "Animal",
-        "Swarm"
-      ],
+      "traits": ["Large", "Animal", "Swarm"],
       "stats": [
         {
           "name": "Perception",
@@ -1454,10 +1427,7 @@
     {
       "name": "Hunting Spider",
       "type": "Creature 1",
-      "traits": [
-        "Medium",
-        "Animal"
-      ],
+      "traits": ["Medium", "Animal"],
       "stats": [
         {
           "name": "Perception",
@@ -1559,9 +1529,7 @@
     {
       "name": "Kerissa",
       "type": "Commoner 1",
-      "traits": [
-        "Medium"
-      ],
+      "traits": ["Medium"],
       "stats": [
         {
           "name": "Perception",
@@ -1629,10 +1597,7 @@
     {
       "name": "Giant Rat",
       "type": "Creature -1",
-      "traits": [
-        "Small",
-        "Animal"
-      ],
+      "traits": ["Small", "Animal"],
       "stats": [
         {
           "name": "Perception",
@@ -1711,10 +1676,7 @@
     {
       "name": "Bulo (Ratomancer)",
       "type": "Creature 2",
-      "traits": [
-        "Small",
-        "Halfling"
-      ],
+      "traits": ["Small", "Halfling"],
       "stats": [
         {
           "name": "Perception",
@@ -1813,10 +1775,7 @@
     {
       "name": "Burt",
       "type": "Creature 10",
-      "traits": [
-        "Small",
-        "Halfling"
-      ],
+      "traits": ["Small", "Halfling"],
       "stats": [
         {
           "name": "Perception",
@@ -1895,10 +1854,7 @@
     {
       "name": "Cave Worm Youngling",
       "type": "Creature 3",
-      "traits": [
-        "Large",
-        "Animal"
-      ],
+      "traits": ["Large", "Animal"],
       "stats": [
         {
           "name": "Perception",
@@ -1994,11 +1950,7 @@
     {
       "name": "Kobold Scout",
       "type": "Creature 1",
-      "traits": [
-        "Small",
-        "Humanoid",
-        "Kobold"
-      ],
+      "traits": ["Small", "Humanoid", "Kobold"],
       "stats": [
         {
           "name": "Perception",
@@ -2103,11 +2055,7 @@
     {
       "name": "Kobold Cavern Mage",
       "type": "Creature 2",
-      "traits": [
-        "Small",
-        "Humanoid",
-        "Kobold"
-      ],
+      "traits": ["Small", "Humanoid", "Kobold"],
       "stats": [
         {
           "name": "Perception",
@@ -2201,11 +2149,7 @@
     {
       "name": "Kobold Leader",
       "type": "Creature 2",
-      "traits": [
-        "Small",
-        "Humanoid",
-        "Kobold"
-      ],
+      "traits": ["Small", "Humanoid", "Kobold"],
       "stats": [
         {
           "name": "Perception",
@@ -2289,11 +2233,7 @@
     {
       "name": "Kobold Warrior",
       "type": "Creature -1",
-      "traits": [
-        "Small",
-        "Humanoid",
-        "Kobold"
-      ],
+      "traits": ["Small", "Humanoid", "Kobold"],
       "stats": [
         {
           "name": "Perception",
@@ -2393,9 +2333,7 @@
     {
       "name": "Carrion Beetle",
       "type": "Creature 0",
-      "traits": [
-        "Small"
-      ],
+      "traits": ["Small"],
       "stats": [
         {
           "name": "Perception",

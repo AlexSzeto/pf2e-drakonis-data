@@ -20,8 +20,8 @@
       "path": "stormhaven.md"
     },
     {
-      "label": "Location - Blighted Catacombs",
-      "path": "blighted-catacombs.md"
+      "label": "Location - Secret Tunnels",
+      "path": "secret-tunnels.md"
     },
     {
       "label": "Campaign Plans",
@@ -2388,7 +2388,7 @@
         },
         {
           "name": "HP",
-          "text": "20",
+          "text": "11",
           "newline": true
         },
         {

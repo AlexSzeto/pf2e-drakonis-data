@@ -1,5 +1,8 @@
 ## Collapsed Escape
 
+![Secret Tunnels](battlemap-secret-tunnels.jpg)
+![Secret Tunnels](battlemap-secret-tunnels-v2.jpg)
+
 The PCs enter the Makeshift Prison 2 levels below ground.
 It's a storeroom converted into a prison with a padlock added to the outside.
 
@@ -15,26 +18,31 @@ Wet, recent and makeshift construction, poorly maintained.
 Moldy. Exposed and sections looks poorly reinforced. Roof supports are buckling inwards
 Exposed sections of the wall can be examined (Geology/Nature 15) to determine that the collapse is unnatural, DC18 to determine it is caused by a cave crawler
 
-### Waiting room (half collapsed)
-2 beds, table, 2 chairs, chest, bags, barrels
-`Dagon Diary` (Brotherhood of Blood history)
-`Bloodthirst Blade`
-Stored food and water in barrels
+### Kobold Corpse
+- Kobold Scout, dead for several days
+- Wears an amulet of colored glass shards, other 20gp of equipment
+- Being harvested by Carrion Beetles x2 (40xp)
 
-- Worm tracks inside room
-- Blood trail south and west
+### Collapsed Room
+- Barely standing plaster walls with painting of Ashling origin. Undecipherable words glow white by the darkstone.
+- 2x Carrion Beetle wandering (40xp), 2x crude traps set by the Kobold scout
 
+### Waiting Room (half collapsed)
+- 2 beds, table, 2 chairs, chest, bags, barrels
+- `Dagon Diary`:
 
-Level 3 Cave Crawler
+```
+Level 3 Cave Crawler (60xp)
 enters the area from an exposed wall but does not chase the player into other areas.
 Roll d4 to determine spawn point, or block player directly trying to enter next area.
 
-(60xp)
-#### Treasures
-`uncut gems` x2 10gp ea.
+```
 
-### Collapsed room to cavern
-Rotted wood, room purpose unknown. Collapsed section leads to cavern
+### Cooking Room 
+- Stored food and water in barrels
+- Cooking pot is empty
+- Crude bell on the ceiling
+- Few steps down the slope toward the caverns, there is an alarm tripwire. It is inactive.
 
 ![Cavern Ambush](battlemap-caverns.jpg)
 

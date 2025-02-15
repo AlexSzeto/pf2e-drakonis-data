@@ -22,7 +22,7 @@ Currently in control of the Court of the Stars
 
 ### Auric Ionar
 ![img](portrait-auric.jpg)
-Son of Daramir, friend of Zura
+Son of Daramir, friend of Zara
 
 ### Daramir Ionar
 ![img](portrait-daramir.jpg)
@@ -31,7 +31,7 @@ Speaker of the Star
 # Ash Elves (Ashlings)
 
 ## House of Xyndrash
-Controlled the Tear of Creation
+Controlled the Tear of Invention
 
 ### Zara Xyndrash
 ![img](portrait-zara.jpg)
@@ -51,5 +51,5 @@ Currently disguised as Mak'Gorim.
 Formerly disguised as Lord Hawkridge (has the same voice)
 Currently in his original form.
 
-### Prince Voxzaroth
+### Prince Vorgath
 Carrier of the Tear of Shadows, has many disguises (including Zara)

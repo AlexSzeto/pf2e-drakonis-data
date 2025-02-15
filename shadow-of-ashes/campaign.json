@@ -2250,6 +2250,10 @@
       "path": "secret-tunnels.md"
     },
     {
+      "label": "Location - Faewind Forest",
+      "path": "faewind-forest.md"
+    },
+    {
       "label": "Campaign Plans",
       "path": "campaign-overview.md"
     }

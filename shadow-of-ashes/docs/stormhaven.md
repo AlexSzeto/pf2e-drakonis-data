@@ -9,6 +9,7 @@ Famous oversized inn and tavern that hosts legendary parties and shows nightly. 
 ```
 
 ### Prices
+- `3gp` Buying info from Burt
 - `20sp` Room for a week
 - `2sp` Full cask of fine ale
 
@@ -44,11 +45,18 @@ Home to a mounting collection of historical documents, logs, and other records. 
 A gathering place for merchants from all across the continent to buy and sell large quantities of goods. The trading floor has the atmosphere of a neverending shouting match from first light till sun down.
 ```
 
-- **Upper Market**
+## Upper Market
 Located on the North side toward Haycrest Heights, it has well furnished shops with brightly decorated storefronts lining the street.
 Reliable goods are sold here (items are never broken, poor quality, or cursed) but are marked up 150%.\
-*Has one shop with "organic, locally grown" potions.*
-- **Lower Market**
+
+- **Nature's Bosom**
+A shop with "organic, single origin, locally sourced" potions and elixirs.
+
+- **Amberweight Foundry**
+Located in the Upper Market, an unassuming storefront that's host to Borja Amberweight, one of the most talented blacksmiths in town. The IOU token can be traded for 
+Handwraps of Mighty Blows +1 or another +1 weapon or to etch a Returning rune on a weapon
+
+## Lower Market
 Located on the Southwest side toward Graywater, it's filled with busy stalls haphazardly stacked on top of each other. Peddlers and the occasional pickpockets abound. 
 25% of the goods are shoddy (-2 penalty). Items are sold at normal price and can be haggled down to 75%.
 

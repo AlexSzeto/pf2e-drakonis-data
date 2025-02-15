@@ -20,23 +20,48 @@ Exposed sections of the wall can be examined (Geology/Nature 15) to determine th
 
 ### Kobold Corpse
 - Kobold Scout, dead for several days
-- Wears an amulet of colored glass shards, other 20gp of equipment
-- Being harvested by Carrion Beetles x2 (40xp)
+- Wears an amulet of colored glass shards, small pouch of shells (currency), Kobold Scout equipment
+```
+Carrion Beetles x2 (40xp)
+```
 
 ### Collapsed Room
 - Barely standing plaster walls with painting of Ashling origin. Undecipherable words glow white by the darkstone.
-- 2x Carrion Beetle wandering (40xp), 2x crude traps set by the Kobold scout
+```
+Carrion Beetles x2 (40xp)
+Crude Traps x2 (12xp)
+```
 
 ### Waiting Room (half collapsed)
 - 2 beds, table, 2 chairs, chest, bags, barrels
-- `Dagon Diary`:
+- signs of struggle, freshly disturbed earth, blood splatters,
+- worm tracks everywhere
 
 ```
-Level 3 Cave Crawler (60xp)
+Level 3 Cave Crawler (80xp)
 enters the area from an exposed wall but does not chase the player into other areas.
 Roll d4 to determine spawn point, or block player directly trying to enter next area.
-
 ```
+
+*TREASURES*
+- *Dagon's Lockbox:* 
+clothes worth 1gp,
+- *Reaven's Lockbox:* (DC16 unlocks)
+16gp,
+clothes worth 1gp,
+2 bottles of local fine wine (1gp ea),
+Ornate Battle Axe (1d8 S sweeping),
+lesser alchemist's fire
+- *On the floor:*
+Final pages from Dagon's diary.
+
+> ...The passcode to the hideout had changed one last time. Will place in lockbox for safekeeping...
+
+> ...Celebrated with fine wine the night before the wedding. The Burning Hands must persevere...
+
+> ...Instructed to kidnap Auric. Reaven is devoted, but I am doubtful. Mak'Gorim's obsession with the ruins will be his undoing...
+
+> ...The exit tunnel had collapsed. Chambers no longer safe. Will venture into the caverns below on first light...
 
 ### Cooking Room 
 - Stored food and water in barrels
@@ -48,10 +73,28 @@ Roll d4 to determine spawn point, or block player directly trying to enter next 
 
 ### Cavern
 Dagon body prepared to burn
-Leader *Gak* has backpack with:
-`gold` (?)
-`note` (latest password)
-more food and waterskin
+*TREASURES*
+- *Dagon*: intact journal, passcode in leather envelop, backup Leather Armor
 
-Group stealth (+5) vs Perception
-3x Warrior, Leader, Oracle
+- Leader *Gak* has jeweled bracelet worth 4gp, backpack with Mace, 4gp, wields lv2 Longsword +1, fishscale armor affixed with mesmerizing opal, lv2 mesmerizing opal
+- Oracle *Oro* has cracked crystal orb, lv3 ornate cold iron token (IOU for Borja Amberweight)
+
+```
+Kobold Ambush:
+
+Setup: Group stealth (+5), +4 greater cover vs Perception
+Attacks from stealth are off-guard
+
+2x Warrior, Leader, Cavern Mage (110xp)
+
+Leader Single Use: Mesmerizing Opal (+1 success to Feint)
+Leader Action Queue: Dueling Cape, Feint (Deception+8+1 vs Perception to off-guard), Melee
+
+Mage Spell Priorities:
+- Runic Weapon on Leader (+1 striking weapon, +1 damage dice, 1 min-10 rounds)
+- Heal on low health member
+- Pummeling rubble
+- Caustic blast
+
+Mage Action Queue: Inspire, Cast a Spell
+```

@@ -2532,18 +2532,33 @@
       "sp": 0
     },
     {
+      "cp": 0,
+      "date": "2025-02-15",
+      "gp": 0,
+      "items": [
+        {
+          "level": 3,
+          "name": "intricate cold iron token",
+          "type": "permanent"
+        }
+      ],
+      "level": 2,
+      "notes": "from Oro",
+      "sp": 0
+    },
+    {
       "date": "2025-02-15",
       "gp": 0,
       "sp": 0,
       "cp": 0,
       "items": [
         {
-          "level": 3,
+          "level": 2,
           "type": "permanent",
-          "name": "intricate cold iron token"
+          "name": "Battle Axe +1"
         }
       ],
-      "notes": "from Oro",
+      "notes": "Additional loot for Reaven",
       "level": 2
     }
   ]

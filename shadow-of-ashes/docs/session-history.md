@@ -44,3 +44,16 @@ The PCs escorted Auric and Lumi home.
 1. The guard on watch did occasionally doze off but is convinced the lock was not tempered.
 2. PCs discovered the secret door. Edwin was called and everyone was baffled.
 3. The locked door opens inward, and has a handle to operate on both sides of the door.
+
+## Hidden Cellar
+
+1. The PCs discovered the Kobold corpse first, looted its items, and killed 2 carrion beetles.
+2. The PCs then disabled the makeshift traps, visited the meeting room, and killed the cave worm youngling.
+3. The PCs looted Reaven's belongings, including her family heirloom axe and the celebatory wine
+
+# Celebration Finale
+
+1. The PCs rested and healed. Fayla visited Borja to investigate about the Axe, who told her that it's a valuable ceremonial axe.
+2. Fadon is out celebrating, and Edwin is performing his duties.
+3. The PCs returned and explored deeper into the caverns. They trekked for 1 hour to one of the burial sites.
+4. The PCs negotiated with the kobolds and let them have the shinies (mace and gp) and left the document and diary.

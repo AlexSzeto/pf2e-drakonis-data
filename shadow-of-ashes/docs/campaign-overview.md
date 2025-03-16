@@ -46,7 +46,25 @@ Faelings and Ashlings escaped to Uruzad
 Faelings establish Council of the Sun & Stars, Ashling king killed over a misunderstanding
 The five princes escape, Xovina gives each prince a shard for protection
 
-### Stormhaven Shard:
+## Orc invasion (100 yrs ago)
+Mak Gorim invades Uruzad, devestates Ashling settlements.
+Zara leaves her father behind to seek asylum at Faewind Forest.
+Faewind elves repels further invasion and "killed" Mak Gorim in the process, instead puts him into hibernation
+
+> Plot Hole: why didn't the Ashlings resettle?
+> The truth is that the Faewind elves never defeated Mak Gorim.
+> Prince Renu casted a spell that destroyed everything.
+> Prince Renu sealed the entrance to the necropolis for 100 years.
+
+## Stormhaven founding
+(70 yrs ago) First wave of refugees to Stormhaven: minority races. Reestablished Stormhaven as a fishing village.
+(30 yrs ago) Second wave of refugees: merchant barons move to Stormhaven with personal 
+(10 yrs ago) Edwin leave Sands Edge to make his fortune
+
+## Stormhaven expansion
+(5 yrs ago) Edwin proposes to have the criminal gangs operate in service of the merchants, becomes mayor
+(4 yrs ago) First peasant rebellion failing, Mak Gorim awakens and wanders as a stranger in Stormhaven, forms the Burning Hands
+(3 yrs ago) Haycrest Manor constructions begin, Dagon and Reaven hired
 
 
 
@@ -61,7 +79,7 @@ Can this lead PCs to the keep?
 Auric went to Verzog Keep for a reason
 
 - He went to retrieve the shard of eternity
-- His grandfather carried it into battle
+- Zara told him about it
 
 Why was Auric lured to the keep, what does OPFOR want ?
 - Consume Auric to rebirth Mak Gorim

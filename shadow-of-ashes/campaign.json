@@ -2498,7 +2498,6 @@
   "treasures": [
     {
       "cp": 0,
-      "date": "2025-02-15",
       "gp": 16,
       "items": [
         {
@@ -2513,7 +2512,6 @@
     },
     {
       "cp": 0,
-      "date": "2025-02-15",
       "gp": 8,
       "items": [
         {
@@ -2533,7 +2531,6 @@
     },
     {
       "cp": 0,
-      "date": "2025-02-15",
       "gp": 0,
       "items": [
         {
@@ -2547,19 +2544,18 @@
       "sp": 0
     },
     {
-      "date": "2025-02-15",
-      "gp": 0,
-      "sp": 0,
       "cp": 0,
+      "gp": 0,
       "items": [
         {
-          "level": 2,
-          "type": "permanent",
-          "name": "Battle Axe +1"
+          "level": 1,
+          "name": "Highmountain Ceremonial Battle Axe",
+          "type": "permanent"
         }
       ],
+      "level": 2,
       "notes": "Additional loot for Reaven",
-      "level": 2
+      "sp": 0
     }
   ]
 }

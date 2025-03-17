@@ -1,15 +1,9 @@
-### Secret Tunnels
+### The Explosion
 
-PCs find Dagon diary.
-- Info about the Burning Hand cult (easy)
-- Fact that the cult dwelling requires a password to open that rotates (medium)
-- Most recent entry about the tunnel collapse, signs of the cave worm
- 
-### Morning after
-Lumi and Auric departs, Auric leaves notes for PCs
+- Happens after PCs leave Haycrest Manor
+- At the same time as the fireworks
 
-```
-The location of Mak Gorim had been revealed.
-I would feel a lot safer if the secret hidden is in your hands.
-Take this amulet to light the way when you're lost.
-```
+### Clue gathering
+- Fadon
+- Burt
+- Zekel seeks revenge

@@ -1,7 +1,7 @@
-# Wedding Night
+# Wedding Night (Yr 104 ES, 30th Stormglow)
 Nothing important happened.
 
-# Celebration Day
+# Celebration Day (31st Stormglow)
 
 ## First Light
 PCs picked up message from Lumi:
@@ -51,16 +51,16 @@ The PCs escorted Auric and Lumi home.
 2. The PCs then disabled the makeshift traps, visited the meeting room, and killed the cave worm youngling.
 3. The PCs looted Reaven's belongings, including her family heirloom axe and the celebatory wine
 
-# Celebration Finale
+# Celebration Finale (1st Firefall)
+
+## First Light
 
 ### Secret Tunnels
 
-PCs find Dagon diary.
-- Info about the Burning Hand cult (easy)
-- Fact that the cult dwelling requires a password to open that rotates (medium)
-- Most recent entry about the tunnel collapse, signs of the cave worm
-
 1. The PCs rested and healed. Fayla visited Borja to investigate about the Axe, who told her that it's a valuable ceremonial axe.
 2. Fadon is out celebrating, and Edwin is performing his duties.
+
+### Limestone Caverns
 3. The PCs returned and explored deeper into the caverns. They trekked for 1 hour to one of the burial sites.
 4. The PCs negotiated with the kobolds and let them have the shinies (mace and gp) and left the document and diary.
+5. The PCs should emerge 2 past Midsun.

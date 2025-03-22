@@ -39,6 +39,20 @@
     {
       "label": "Wagon Ruins Approach Ambience",
       "path": "wagon-ruins-approach-ambience.mp3"
+    },
+    {
+      "path": "ambience-great-fire.mp3",
+      "label": "Great Fire",
+      "tags": [
+        "ambience"
+      ]
+    },
+    {
+      "path": "ambience-night-fireworks.mp3",
+      "label": "Night Fireworks",
+      "tags": [
+        "ambience"
+      ]
     }
   ],
   "bgms": [
@@ -97,6 +111,20 @@
     {
       "label": "Wavering Hearts",
       "path": "wavering-hearts-bgm.mp3"
+    },
+    {
+      "path": "bgm-seedy-harbor-nights.mp3",
+      "label": "Seedy Harbor Nights",
+      "tags": [
+        "bgm"
+      ]
+    },
+    {
+      "path": "bgm-your-chance-to-escape.mp3",
+      "label": "Your Chance To Escape",
+      "tags": [
+        "bgm"
+      ]
     }
   ],
   "cards": [
@@ -2225,6 +2253,99 @@
         "Small"
       ],
       "type": "Creature 0"
+    },
+    {
+      "name": "Burning Hand Cultist",
+      "type": "Creature 1",
+      "traits": [
+        "Medium"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+7"
+        },
+        {
+          "name": "Skills",
+          "text": "Deception +6, Acrobatics +3, Survival +4, Nature +2",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+2",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+3"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "+1"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "0"
+        },
+        {
+          "name": "Items",
+          "text": "Club, Longspear, Sickle (one of)",
+          "newline": true
+        },
+        {
+          "name": "AC",
+          "text": "13",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+7"
+        },
+        {
+          "name": "Ref",
+          "text": "+7"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "text": "19",
+          "newline": true
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "Sickle +7 1d4+2 S, agile, finesse, trip",
+          "newline": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "Longspear +7 1d8+2 P, reach",
+          "newline": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "Club +7 1d6+2 B, thrown 10ft",
+          "newline": true
+        }
+      ]
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -2491,6 +2612,90 @@
     {
       "label": "Wedding Invitation",
       "path": "wedding-invitation.jpg"
+    },
+    {
+      "path": "portrait-reginald-thorne.jpeg",
+      "label": "Reginald Thorne",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-zekie.png",
+      "label": "Zekie",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-zara-xyndrash.jpg",
+      "label": "Zara Xyndrash",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "battlemap-keroc-outer.jpg",
+      "label": "Keroc Outer",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "battlemap-keroc-inner.jpg",
+      "label": "Keroc Inner",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "item-preserver-ceremonial-axe.jpeg",
+      "label": "Preserver Ceremonial Axe",
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "path": "battlemap-fire-stage-0.jpg",
+      "label": "Fire Stage 0",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "map-fire-stage-2.jpg",
+      "label": "Fire Stage 2",
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "path": "map-fire-stage-1.jpg",
+      "label": "Fire Stage 1",
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "path": "location-finale-fireworks.jpeg",
+      "label": "Finale Fireworks",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-night-of-flames.jpeg",
+      "label": "Night Of Flames",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-lucita.jpeg",
+      "label": "Lucita",
+      "tags": [
+        "portrait"
+      ]
     }
   ],
   "maps": [],

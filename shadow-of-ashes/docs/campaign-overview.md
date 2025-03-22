@@ -28,6 +28,12 @@ Nyxalis
 Pyra
 Aelindra
 
+# Highmountain Dwarf Clans (Serving Tharudain Directly):
+- Innovator
+- Assembler
+- Harvester
+- Preserver
+
 # Big picture events
 
 ## Pre story
@@ -66,7 +72,7 @@ Haycrest Manor constructions begin, Dagon and Reaven hired
 (104 ES, 30 Stormglow) The Wedding Curse  
   
 (31 Stormglow) Celebration day
-(1 Firefall) Night of fire
+(1 Firefall) Night of Flames
 
 
 

@@ -64,3 +64,22 @@ The PCs escorted Auric and Lumi home.
 3. The PCs returned and explored deeper into the caverns. They trekked for 1 hour to one of the burial sites.
 4. The PCs negotiated with the kobolds and let them have the shinies (mace and gp) and left the document and diary.
 5. The PCs should emerge 2 past Midsun.
+
+(Session 3 Starts)
+
+1. Dagon's corpse is left behind in Haycrest Manor.
+2. The PCs read through the diary to discover about the Night of Terror,
+brotherhood history, and Dagon/Reaven's origin
+3. Faela shops for health potions and learns about the finale fireworks.
+4. Lemmy visits Burt and was offered info about the Claw's movements, and notify the PCs of Zara's presence.
+5. Typha and Grom reads about Mak Gorim's takeover. They decoded the message that gives them the Tear's true location (above ground).
+6. The PCs talk to Burt and Bolo and they make an offer to work with the Rats.
+7. Typha talks to Zara about the Darkstone Amulet and Xyndrasis as the true location (below ground).
+
+### Night of Flames
+1. Fire starts at 10, during the fireworks.
+2. The PCs helped save the Rats Hive. Burt rewards the party with the full sum (35g)
+ 
+# Under the Ember's Shadow (2nd Firefall)
+1. The PCs head to Karoc. The outer city is swarming with skeleton patrol. They successfully kill their way into the inner city.
+2. The inner city had patrols with more elaborate directions. The PCs were not able to stop the alarm from sounding before the last skeleton is destroyed.

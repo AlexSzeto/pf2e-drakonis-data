@@ -41,15 +41,15 @@
       "path": "wagon-ruins-approach-ambience.mp3"
     },
     {
-      "path": "ambience-great-fire.mp3",
       "label": "Great Fire",
+      "path": "ambience-great-fire.mp3",
       "tags": [
         "ambience"
       ]
     },
     {
-      "path": "ambience-night-fireworks.mp3",
       "label": "Night Fireworks",
+      "path": "ambience-night-fireworks.mp3",
       "tags": [
         "ambience"
       ]
@@ -113,15 +113,15 @@
       "path": "wavering-hearts-bgm.mp3"
     },
     {
-      "path": "bgm-seedy-harbor-nights.mp3",
       "label": "Seedy Harbor Nights",
+      "path": "bgm-seedy-harbor-nights.mp3",
       "tags": [
         "bgm"
       ]
     },
     {
-      "path": "bgm-your-chance-to-escape.mp3",
       "label": "Your Chance To Escape",
+      "path": "bgm-your-chance-to-escape.mp3",
       "tags": [
         "bgm"
       ]
@@ -2256,10 +2256,6 @@
     },
     {
       "name": "Burning Hand Cultist",
-      "type": "Creature 1",
-      "traits": [
-        "Medium"
-      ],
       "stats": [
         {
           "name": "Perception",
@@ -2267,13 +2263,13 @@
         },
         {
           "name": "Skills",
-          "text": "Deception +6, Acrobatics +3, Survival +4, Nature +2",
-          "newline": true
+          "newline": true,
+          "text": "Deception +6, Acrobatics +3, Survival +4, Nature +2"
         },
         {
           "name": "Str",
-          "text": "+2",
-          "newline": true
+          "newline": true,
+          "text": "+2"
         },
         {
           "name": "Dex",
@@ -2297,13 +2293,13 @@
         },
         {
           "name": "Items",
-          "text": "Club, Longspear, Sickle (one of)",
-          "newline": true
+          "newline": true,
+          "text": "Club, Longspear, Sickle (one of)"
         },
         {
+          "hr": true,
           "name": "AC",
-          "text": "13",
-          "hr": true
+          "text": "13"
         },
         {
           "name": "Fort",
@@ -2319,33 +2315,37 @@
         },
         {
           "name": "HP",
-          "text": "19",
-          "newline": true
+          "newline": true,
+          "text": "19"
         },
         {
+          "hr": true,
           "name": "Speed",
-          "text": "25",
-          "hr": true
+          "text": "25"
         },
         {
-          "name": "Melee",
           "action": "single",
-          "text": "Sickle +7 1d4+2 S, agile, finesse, trip",
-          "newline": true
+          "name": "Melee",
+          "newline": true,
+          "text": "Sickle +7 1d4+2 S, agile, finesse, trip"
         },
         {
-          "name": "Melee",
           "action": "single",
-          "text": "Longspear +7 1d8+2 P, reach",
-          "newline": true
+          "name": "Melee",
+          "newline": true,
+          "text": "Longspear +7 1d8+2 P, reach"
         },
         {
-          "name": "Melee",
           "action": "single",
-          "text": "Club +7 1d6+2 B, thrown 10ft",
-          "newline": true
+          "name": "Melee",
+          "newline": true,
+          "text": "Club +7 1d6+2 B, thrown 10ft"
         }
-      ]
+      ],
+      "traits": [
+        "Medium"
+      ],
+      "type": "Creature 1"
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -2614,85 +2614,85 @@
       "path": "wedding-invitation.jpg"
     },
     {
-      "path": "portrait-reginald-thorne.jpeg",
       "label": "Reginald Thorne",
+      "path": "portrait-reginald-thorne.jpeg",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "portrait-zekie.png",
       "label": "Zekie",
+      "path": "portrait-zekie.png",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "portrait-zara-xyndrash.jpg",
       "label": "Zara Xyndrash",
+      "path": "portrait-zara-xyndrash.jpg",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "battlemap-keroc-outer.jpg",
       "label": "Keroc Outer",
+      "path": "battlemap-keroc-outer.jpg",
       "tags": [
         "battlemap"
       ]
     },
     {
-      "path": "battlemap-keroc-inner.jpg",
       "label": "Keroc Inner",
+      "path": "battlemap-keroc-inner.jpg",
       "tags": [
         "battlemap"
       ]
     },
     {
-      "path": "item-preserver-ceremonial-axe.jpeg",
       "label": "Preserver Ceremonial Axe",
+      "path": "item-preserver-ceremonial-axe.jpeg",
       "tags": [
         "item"
       ]
     },
     {
-      "path": "battlemap-fire-stage-0.jpg",
       "label": "Fire Stage 0",
+      "path": "battlemap-fire-stage-0.jpg",
       "tags": [
         "battlemap"
       ]
     },
     {
-      "path": "map-fire-stage-2.jpg",
       "label": "Fire Stage 2",
+      "path": "map-fire-stage-2.jpg",
       "tags": [
         "map"
       ]
     },
     {
-      "path": "map-fire-stage-1.jpg",
       "label": "Fire Stage 1",
+      "path": "map-fire-stage-1.jpg",
       "tags": [
         "map"
       ]
     },
     {
-      "path": "location-finale-fireworks.jpeg",
       "label": "Finale Fireworks",
+      "path": "location-finale-fireworks.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-night-of-flames.jpeg",
       "label": "Night Of Flames",
+      "path": "location-night-of-flames.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "portrait-lucita.jpeg",
       "label": "Lucita",
+      "path": "portrait-lucita.jpeg",
       "tags": [
         "portrait"
       ]
@@ -2761,6 +2761,14 @@
       "level": 2,
       "notes": "Additional loot for Reaven",
       "sp": 0
+    },
+    {
+      "gp": 35,
+      "sp": 0,
+      "cp": 0,
+      "items": [],
+      "notes": "Reward from Burt for saving the Hive",
+      "level": 2
     }
   ]
 }

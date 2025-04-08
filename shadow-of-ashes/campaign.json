@@ -2696,12 +2696,24 @@
       "tags": [
         "portrait"
       ]
+    },
+    {
+      "path": "battlemap-karoc-temple-smaller.jpeg",
+      "label": "Karoc Temple Smaller",
+      "tags": [
+        "battlemap"
+      ]
     }
   ],
   "maps": [
     {
-      "path": "karoc-temple.json",
+      "path": "maps-karoc-temple.json",
       "label": "Karoc Temple",
+      "tags": []
+    },
+    {
+      "path": "maps-karoc-temple-smaller.json",
+      "label": "Karoc Temple Smaller",
       "tags": []
     }
   ],

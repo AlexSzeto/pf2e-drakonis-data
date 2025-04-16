@@ -2377,6 +2377,18 @@
     {
       "label": "World Building - Drakonis",
       "path": "campaign-overview.md"
+    },
+    {
+      "path": "docs-burning-hand-cult-notes.md",
+      "label": "Burning Hand Cult Notes",
+      "tags": [
+        "docs"
+      ]
+    },
+    {
+      "path": "docs-burning-hand-cult-notes.txt",
+      "label": "docs-burning-hand-cult-notes.txt",
+      "tags": []
     }
   ],
   "id": "shadow-of-ashes",
@@ -2698,8 +2710,15 @@
       ]
     },
     {
-      "path": "battlemap-karoc-temple-smaller.jpeg",
-      "label": "Karoc Temple Smaller",
+      "path": "battlemap-karoc-temple.jpeg",
+      "label": "Karoc Temple",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "battlemap-keroc-town-center.jpeg",
+      "label": "Keroc Town Center",
       "tags": [
         "battlemap"
       ]
@@ -2712,8 +2731,8 @@
       "tags": []
     },
     {
-      "path": "maps-karoc-temple-smaller.json",
-      "label": "Karoc Temple Smaller",
+      "path": "maps-keroc-town-center.json",
+      "label": "Keroc Town Center",
       "tags": []
     }
   ],

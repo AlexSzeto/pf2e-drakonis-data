@@ -2346,6 +2346,937 @@
         "Medium"
       ],
       "type": "Creature 1"
+    },
+    {
+      "name": "Junka",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+7; darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Orcish"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": " Acrobatics +8, Athletics +9, Deception +5, Intimidation +5, Lore: Warfare +6, Nature +5, Stealth +6"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+4"
+        },
+        {
+          "name": "Dex",
+          "text": "+1"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "+1"
+        },
+        {
+          "name": "Wis",
+          "text": "+0"
+        },
+        {
+          "name": "Cha",
+          "text": "+0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Full Plate, Short Sword"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "21"
+        },
+        {
+          "name": "Fort",
+          "text": "+10"
+        },
+        {
+          "name": "Ref",
+          "text": "+8"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "54"
+        },
+        {
+          "name": "Bravery",
+          "newline": true,
+          "text": "When you roll a success at a Will save against a fear effect, you get a critical success instead."
+        },
+        {
+          "name": "Reactive Strike",
+          "newline": true,
+          "text": "[reaction]"
+        },
+        {
+          "name": "Steady Balance",
+          "newline": true,
+          "text": "Your success balance check becomes crit success. You are not off-guard when balancing on narrow or uneven terrain."
+        },
+        {
+          "name": "Dueling Parry",
+          "newline": true,
+          "text": "[single] While using only 1H weapon, +2 AC until start of next turn."
+        },
+        {
+          "name": "Vicious Swing",
+          "newline": true,
+          "text": "[double] Counts as 2 for multi attack penalty, and Strike for +1 damage die."
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "20"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "+1 Striking Longsword +12 2d8+4 S"
+        }
+      ],
+      "traits": [
+        "Medium"
+      ],
+      "type": "Fighter 3"
+    },
+    {
+      "name": "Trixie",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+11 *(Initiative 13)*; Darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Elvish,"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Acrobatics +8, Arcana +10, Athletics +0, Crafting +12, Deception +9, Diplomacy +9, Lore: Underworld +10, Medicine +7, Occultism +10, Survival +7, Thievery +7"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+0"
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "-1"
+        },
+        {
+          "name": "Int",
+          "text": "+4"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "+3"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Armored Coat, Lesser Spiderfoot Brew, Moderate Darkheart Mutagen, Moderate Bestial Mutagen"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "20"
+        },
+        {
+          "name": "Fort",
+          "text": "+7"
+        },
+        {
+          "name": "Ref",
+          "text": "+10"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "34"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "30"
+        },
+        {
+          "name": "Alchemy",
+          "newline": true,
+          "text": " Advanced Alchemy (6), Versatile Vials (6)"
+        },
+        {
+          "action": "single",
+          "name": "Quick Alchemy",
+          "newline": true,
+          "text": " Create an **infused** consumable"
+        },
+        {
+          "action": "single",
+          "name": "Quick Bomber",
+          "newline": true,
+          "text": "Draw and Strike a bomb"
+        },
+        {
+          "name": "Spiderfoot Brew",
+          "newline": true,
+          "text": "Climb speed 15ft"
+        },
+        {
+          "action": "single",
+          "name": "Drakeheart Mutagen",
+          "newline": true,
+          "text": "+5 AC, +2 Perception, -1 Will, -1 Reflex, -1 Recall Knowledge, Final Surge [single] Stride twice"
+        },
+        {
+          "action": "single",
+          "name": "Ranged (increment 30ft)",
+          "newline": true,
+          "text": "Versatile Vial +9 2d6, 4 splash, choose acid, cold, fire, or electricity"
+        },
+        {
+          "action": "single",
+          "name": "Ranged (increment 30ft)",
+          "newline": true,
+          "text": "Moderate Alchemist's Fire +9 2d8 fire, 2 persistent fire, 2 fire splash"
+        },
+        {
+          "action": "single",
+          "name": "Ranged (increment 30ft)",
+          "newline": true,
+          "text": "Moderate Frost Vial +9 2d6 cold, 2 cold splash, -10ft speed"
+        },
+        {
+          "action": "single",
+          "name": "Ranged (increment 30ft)",
+          "newline": true,
+          "text": "Glue Bomb +9 -15ft speed 1min, crit immobilize 1 round (Escape DC 19 or 3 Manipulate [single])"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Beastial Mutagen Claw +10 2d6 S, Jaws +10 2d8 P, while in use -2 Reflex -2 Arcrobatics -2 Stealth"
+        },
+        {
+          "name": "Formular Book",
+          "newline": true,
+          "text": "Yellow Musk Vial; **Moderate** Alchemist's Fire, Frost Vial, Glue Bomb, Darkheart Mutagen, Bestial Mutagen"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Ashling"
+      ],
+      "type": "Alchemist 4"
+    },
+    {
+      "name": "Cultist Initiate",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+2"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Orcish"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Deception +1, Acrobatics +4, Survival +2"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+1"
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "0"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Club, Sickle, Lesser Alchemist's Fire (2), 1d10 cp"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "12"
+        },
+        {
+          "name": "Fort",
+          "text": "+3"
+        },
+        {
+          "name": "Ref",
+          "text": "+5"
+        },
+        {
+          "name": "Will",
+          "text": "+2"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "8"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Sickle +7 1d4+1 S, agile, finesse, trip"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Club +6 1d6+1 B, thrown 10ft"
+        }
+      ],
+      "traits": [
+        "Medium"
+      ],
+      "type": "Creature -1"
+    },
+    {
+      "name": "Orc Guardian",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+7; darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Orcish"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Athletics +6, Acrobatics +4, Intimidation +3"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+3"
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "0"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Chainmail, Club, Shield - HP 12, Minor Potion of Retaliation, 1d4sp 1d10cp"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "18"
+        },
+        {
+          "name": "Fort",
+          "text": "+7"
+        },
+        {
+          "name": "Ref",
+          "text": "+7"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "23"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Club +8 1d6+3 B"
+        },
+        {
+          "name": "Reactive Strike",
+          "newline": true,
+          "text": "[reaction]"
+        },
+        {
+          "name": "Shield Block",
+          "newline": true,
+          "text": "[reaction] **Trigger** Raised shield (+2 AC), taking physical damage **Effect** Shield prevents up to 3 damage, shield and character takes remaining damage"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Orc"
+      ],
+      "type": "Fighter 1"
+    },
+    {
+      "name": "Orc Spearman",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+6; darkvision"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Acrobatics +5, Athletics +7, Deception +3"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+4"
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "+1"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Longspear, Studded Leather, 1d4sp, 1d10cp"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "17"
+        },
+        {
+          "name": "Fort",
+          "text": "+7"
+        },
+        {
+          "name": "Ref",
+          "text": "+7"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "22"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "longspear +9 1d8+4 P, reach"
+        },
+        {
+          "name": "Exacting Strike",
+          "newline": true,
+          "text": "[single] Strike. No multi-attack penalty on miss."
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Orc"
+      ],
+      "type": "Fighter 1"
+    },
+    {
+      "name": "Necromancer Apprentice",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+7; darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Arcana +4, Religion +7, Occultism +4"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+2"
+        },
+        {
+          "name": "Dex",
+          "text": "+1"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "0"
+        },
+        {
+          "name": "Wis",
+          "text": "+3"
+        },
+        {
+          "name": "Cha",
+          "text": "+1"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Staff, Padded Armor, 2d4sp, "
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "12"
+        },
+        {
+          "name": "Fort",
+          "text": "+6"
+        },
+        {
+          "name": "Ref",
+          "text": "+5"
+        },
+        {
+          "name": "Will",
+          "text": "+9"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "30"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "staff +9 1d6+2 B"
+        },
+        {
+          "name": "Spells",
+          "newline": true,
+          "text": "DC 17; **Divine Font** Harm (4) **Focus** Touch of Undeath **1st** Necromancer's Generosity, Fear (2); **Cantrips** Divine Lance"
+        },
+        {
+          "name": "Command Undead",
+          "newline": true,
+          "text": "[double] Command one ally undead in range to attack a target."
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Unholy"
+      ],
+      "type": "Creature 2"
+    },
+    {
+      "name": "Digrot",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+5; darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Jotun"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Athletics +12, Intimidation +9"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+5"
+        },
+        {
+          "name": "Dex",
+          "text": "-1"
+        },
+        {
+          "name": "Con",
+          "text": "+4"
+        },
+        {
+          "name": "Int",
+          "text": "-2"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-2"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "chain whip, cheap alcohol (3)"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "17"
+        },
+        {
+          "name": "Fort",
+          "text": "+11"
+        },
+        {
+          "name": "Ref",
+          "text": "+6"
+        },
+        {
+          "name": "Will",
+          "text": "+5"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "50"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "chain whip +12 1d10+7 P, deadly d10, reach 10, trip"
+        },
+        {
+          "name": "Chain Flurry",
+          "newline": true,
+          "text": "[turn] Strike all targets within reach, including allies, applying multi-attack penalty after each Strike."
+        }
+      ],
+      "traits": [
+        "Large",
+        "Giant",
+        "Humanoid"
+      ],
+      "type": "Creature 3"
+    },
+    {
+      "name": "Xugan (Quartermaster)",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+7; darkvision"
+        },
+        {
+          "name": "Languages",
+          "newline": true,
+          "text": "Common, Orcish"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Athletics +10, Acrobatics +6, Crafting +7, Intimidation +5"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+3"
+        },
+        {
+          "name": "Dex",
+          "text": "+1"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "+2"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Butchering Axe"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "16"
+        },
+        {
+          "name": "Fort",
+          "text": "+10"
+        },
+        {
+          "name": "Ref",
+          "text": "+6"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "55"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "30"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "butchering axe +1 +9 1d12+3 S, shove, sweep"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "smithing hammer +8 1d8+3 B, shove"
+        },
+        {
+          "name": "Master of Arms",
+          "newline": true,
+          "text": "you are proficient with ALL weapons."
+        },
+        {
+          "action": "single",
+          "name": "Rage",
+          "newline": true,
+          "text": "**Requirement** You aren't fatigued or raging. **Effects** +con to temp HP, +2 damage to melee Strikes, cannot concentrate, last 1 minute."
+        },
+        {
+          "action": "free",
+          "name": "Quick-Tempered",
+          "newline": true,
+          "text": "You rage on initiative."
+        },
+        {
+          "action": "double",
+          "name": "Intimidating Strike",
+          "newline": true,
+          "text": "Melee Strike. On hit and damage, target gains frightened 1, or 2 on crit"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Orc"
+      ],
+      "type": "Barbarian 3"
+    },
+    {
+      "name": "Void Worms Swarm",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+4; Lifesense 20ft"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Athletics +2, Stealth +5"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "-2"
+        },
+        {
+          "name": "Dex",
+          "text": "+3"
+        },
+        {
+          "name": "Con",
+          "text": "0"
+        },
+        {
+          "name": "Int",
+          "text": "+1"
+        },
+        {
+          "name": "Wis",
+          "text": "-5"
+        },
+        {
+          "name": "Cha",
+          "text": "-4"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "15"
+        },
+        {
+          "name": "Fort",
+          "text": "+2"
+        },
+        {
+          "name": "Ref",
+          "text": "+7"
+        },
+        {
+          "name": "Will",
+          "text": "+2"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "6"
+        },
+        {
+          "name": "Immunities",
+          "text": "grabbed, precision, prone, restrained, swarm mind"
+        },
+        {
+          "name": "Resistances",
+          "text": "piercing 2, slashing 2"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "area damage 5, splash damage 5"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "20"
+        },
+        {
+          "name": "Swarming Bite",
+          "newline": true,
+          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Fortitude save. On fail, be exposed to Void Rot."
+        },
+        {
+          "name": "Void Rot",
+          "newline": true,
+          "text": "the void energy quickly consume the victim's life force. **Saving Throw** DC 14 Fortitude **Maximum Duration** 3 rounds **Stage 1** 1d4 void damage, Drained 1 (1 round) **Stage 2** 1d6 void damage, Drained 2 (1 round) **Stage 3** 1d8 void damage, Drained 3 (1 round)"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Outsider",
+        "Swarm"
+      ],
+      "type": "Creature 0"
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -2379,16 +3310,11 @@
       "path": "campaign-overview.md"
     },
     {
-      "path": "docs-burning-hand-cult-notes.md",
       "label": "Burning Hand Cult Notes",
+      "path": "docs-burning-hand-cult-notes.md",
       "tags": [
         "docs"
       ]
-    },
-    {
-      "path": "docs-burning-hand-cult-notes.txt",
-      "label": "docs-burning-hand-cult-notes.txt",
-      "tags": []
     }
   ],
   "id": "shadow-of-ashes",
@@ -2710,15 +3636,15 @@
       ]
     },
     {
-      "path": "battlemap-karoc-temple.jpeg",
       "label": "Karoc Temple",
+      "path": "battlemap-karoc-temple.jpeg",
       "tags": [
         "battlemap"
       ]
     },
     {
-      "path": "battlemap-keroc-town-center.jpeg",
       "label": "Keroc Town Center",
+      "path": "battlemap-keroc-town-center.jpeg",
       "tags": [
         "battlemap"
       ]
@@ -2726,13 +3652,13 @@
   ],
   "maps": [
     {
-      "path": "maps-karoc-temple.json",
       "label": "Karoc Temple",
+      "path": "maps-karoc-temple.json",
       "tags": []
     },
     {
-      "path": "maps-keroc-town-center.json",
       "label": "Keroc Town Center",
+      "path": "maps-keroc-town-center.json",
       "tags": []
     }
   ],
@@ -2754,39 +3680,6 @@
     },
     {
       "cp": 0,
-      "gp": 8,
-      "items": [
-        {
-          "level": 2,
-          "name": "Longsword +1",
-          "type": "permanent"
-        },
-        {
-          "level": 2,
-          "name": "mesmerizing opal",
-          "type": "consumable"
-        }
-      ],
-      "level": 2,
-      "notes": "Gak's equipment",
-      "sp": 0
-    },
-    {
-      "cp": 0,
-      "gp": 0,
-      "items": [
-        {
-          "level": 3,
-          "name": "intricate cold iron token",
-          "type": "permanent"
-        }
-      ],
-      "level": 2,
-      "notes": "from Oro",
-      "sp": 0
-    },
-    {
-      "cp": 0,
       "gp": 0,
       "items": [
         {
@@ -2800,12 +3693,12 @@
       "sp": 0
     },
     {
-      "gp": 35,
-      "sp": 0,
       "cp": 0,
+      "gp": 35,
       "items": [],
+      "level": 2,
       "notes": "Reward from Burt for saving the Hive",
-      "level": 2
+      "sp": 0
     }
   ]
 }

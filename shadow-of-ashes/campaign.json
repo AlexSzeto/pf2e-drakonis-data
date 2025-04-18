@@ -69,11 +69,11 @@
       "path": "tears-of-xovina.mp3"
     },
     {
-      "label": "Arise Dak Gorim",
+      "label": "Dak Gorim Arisen",
       "path": "arise-dak-gorim-bgm.mp3"
     },
     {
-      "label": "Gutting Hole Showdown",
+      "label": "Showdown at the Gutting Hole",
       "path": "gutting-hole-showdown-bgm.mp3"
     },
     {
@@ -93,7 +93,7 @@
       "path": "ode-to-stormhaven-bgm.mp3"
     },
     {
-      "label": "Slow Death March",
+      "label": "Poisonous Death March",
       "path": "slow-death-march-bgm.mp3"
     },
     {
@@ -122,6 +122,27 @@
     {
       "label": "Your Chance To Escape",
       "path": "bgm-your-chance-to-escape.mp3",
+      "tags": [
+        "bgm"
+      ]
+    },
+    {
+      "path": "bgm-engarde-or-die.mp3",
+      "label": "Engarde Or Die",
+      "tags": [
+        "bgm"
+      ]
+    },
+    {
+      "path": "bgm-sinister-pressure.mp3",
+      "label": "Sinister Pressure",
+      "tags": [
+        "bgm"
+      ]
+    },
+    {
+      "path": "bgm-sound-tactics-prevail.mp3",
+      "label": "Sound Tactics Prevail",
       "tags": [
         "bgm"
       ]

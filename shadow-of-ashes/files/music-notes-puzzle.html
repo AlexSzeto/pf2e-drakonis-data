@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Secret Melody</title>
+  <style>
+    body, html {
+      margin: 0;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #222;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      gap: 4rem;
+      width: 80vw;
+      height: 80vh;
+    }
+    button {
+      font-size: 8rem;
+      border: none;
+      border-radius: 8px;
+      background-color: #4444FF;
+      color: white;
+      transition: background-color 0.2s;
+    }
+    button:active {
+      background-color: #6666FF;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid" id="buttonGrid"></div>
+
+  <script>
+    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  
+    // The original ordered notes
+    const originalNotes = [
+      { label: '•γ I', freq: 392.00, order: 0 },
+      { label: '𝑓# I', freq: 369.99, order: 1 },
+      { label: 'εb I', freq: 311.13, order: 2 },
+      { label: 'α I', freq: 220.00, order: 3 },
+      { label: 'αb II', freq: 207.65, order: 4 },
+      { label: 'ε II', freq: 329.63, order: 5 },
+      { label: 'γ II', freq: 392.00, order: 6 },
+      { label: 'β II', freq: 493.88, order: 7 }
+    ];
+  
+    // Clone and shuffle notes
+    const notes = [...originalNotes].sort(() => Math.random() - 0.5);
+  
+    const buttonGrid = document.getElementById('buttonGrid');
+    const oscillators = {};
+    const playBuffer = [];
+  
+    const fadeOutButtons = () => {
+      const buttons = document.querySelectorAll('button');
+      buttons.forEach(btn => {
+        btn.style.transition = 'opacity 1s';
+        btn.style.opacity = 0;
+      });
+    };
+  
+    // Melody to play after unlocking
+    const melody = [
+      { freq: 392.00, duration: 0.25 },  // G
+      { freq: 415.30, duration: 0.25 },  // G#
+      { freq: 440.00, duration: 0.25 },  // A
+      { freq: 466.16, duration: 0.5 }   // A#
+    ];
+  
+    let melodyPlaying = false;
+    const playMelody = async () => {
+      if (melodyPlaying) return;
+      melodyPlaying = true;
+      for (const note of melody) {
+        const osc = audioCtx.createOscillator();
+        osc.type = 'square';
+        osc.frequency.setValueAtTime(note.freq, audioCtx.currentTime);
+        osc.connect(audioCtx.destination);
+        osc.start();
+        osc.stop(audioCtx.currentTime + note.duration);
+        await new Promise(resolve => setTimeout(resolve, (note.duration) * 1000));
+      }
+    };
+  
+    const stopAllSounds = () => {
+      for (let key in oscillators) {
+        try {
+          oscillators[key].stop();
+        } catch (e) {}
+      }
+      Object.keys(oscillators).forEach(key => delete oscillators[key]);
+    };
+  
+    notes.forEach((note, index) => {
+      const btn = document.createElement('button');
+      btn.textContent = note.label;
+      buttonGrid.appendChild(btn);
+  
+      const startNote = () => {
+        if (!oscillators[index]) {
+          const osc = audioCtx.createOscillator();
+          osc.type = 'square';
+          osc.frequency.setValueAtTime(note.freq, audioCtx.currentTime);
+          osc.connect(audioCtx.destination);
+          osc.start();
+          oscillators[index] = osc;
+  
+          // Track play sequence
+          playBuffer.push(note.order);
+          if (playBuffer.length > 8) playBuffer.shift();  
+        }
+      };
+  
+      const stopNote = () => {
+        if (oscillators[index]) {
+          oscillators[index].stop();
+          delete oscillators[index];
+        }
+
+        console.log('Play buffer:', playBuffer.join(','));
+        const correctSequence = originalNotes.map(n => n.order).join(',');
+          if (playBuffer.join(',') === correctSequence) {
+            stopAllSounds();
+            fadeOutButtons();
+            setTimeout(playMelody, 1000);
+          }
+      };
+  
+      btn.addEventListener('mousedown', startNote);
+      btn.addEventListener('mouseup', stopNote);
+      btn.addEventListener('mouseleave', stopNote);
+  
+      btn.addEventListener('touchstart', (e) => {
+        e.preventDefault();
+        startNote();
+      }, { passive: false });
+      btn.addEventListener('touchend', stopNote);
+    });
+  </script>
+  
+</body>
+</html>

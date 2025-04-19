@@ -2276,7 +2276,7 @@
       "type": "Creature 0"
     },
     {
-      "name": "Burning Hand Cultist",
+      "name": "Cultist Devotee",
       "stats": [
         {
           "name": "Perception",
@@ -2315,7 +2315,7 @@
         {
           "name": "Items",
           "newline": true,
-          "text": "Club, Longspear, Sickle (one of)"
+          "text": "Leather Armor, Club, Sickle (one of), Crude Alchemist's Fire, Minor Healing Potion"
         },
         {
           "hr": true,
@@ -2354,13 +2354,12 @@
           "action": "single",
           "name": "Melee",
           "newline": true,
-          "text": "Longspear +7 1d8+2 P, reach"
+          "text": "Club +7 1d6+2 B, thrown 10ft"
         },
         {
-          "action": "single",
-          "name": "Melee",
+          "name": "Final Devotion",
           "newline": true,
-          "text": "Club +7 1d6+2 B, thrown 10ft"
+          "text": "[reaction] **Trigger** HP reduced to 0 or below but not dying from massive damage **Effects** Crazed bloodrage induce the devotee to fight for 1 extra round before collapsing, dealing an extra weapon die of Strike damage. An additional hit kills the devotee instantly."
         }
       ],
       "traits": [
@@ -2668,7 +2667,7 @@
         {
           "name": "Items",
           "newline": true,
-          "text": "Club, Sickle, Lesser Alchemist's Fire (2), 1d10 cp"
+          "text": "Club, Sickle, Crude Alchemist's Fire (2), 1d10 cp"
         },
         {
           "hr": true,
@@ -3668,6 +3667,97 @@
       "path": "battlemap-keroc-town-center.jpeg",
       "tags": [
         "battlemap"
+      ]
+    },
+    {
+      "path": "portrait-junka.jpeg",
+      "label": "Junka",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-xugan.jpeg",
+      "label": "Xugan",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-trixie.jpeg",
+      "label": "Trixie",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-keroc-upper-ruins.jpeg",
+      "label": "Keroc Upper Ruins",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-excavation.jpeg",
+      "label": "Keroc Excavation",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-armory.jpeg",
+      "label": "Keroc Armory",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-morgue.jpeg",
+      "label": "Keroc Morgue",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-brewery.jpeg",
+      "label": "Keroc Brewery",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-alchemy-lab.jpeg",
+      "label": "Keroc Alchemy Lab",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-temple-grounds.jpg",
+      "label": "Keroc Temple Grounds",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "item-message-two-solution-key.png",
+      "label": "Message Two Solution Key",
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "path": "location-keroc-summoning-chamber.jpeg",
+      "label": "Keroc Summoning Chamber",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-burial-chamber.jpeg",
+      "label": "Keroc Burial Chamber",
+      "tags": [
+        "location"
       ]
     }
   ],

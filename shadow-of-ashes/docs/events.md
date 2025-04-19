@@ -5,8 +5,13 @@ If easier/harder, adjust by +/-2, then +/-5
 
 # Into the Ruins
 
+## Suspicion Tracker
+
+By default, the cultists at Karoc has a suspicion DC of 14. For every suspicious action the PCs take,
+this increase by 1. It lowers by 1 per day.
+
 ## Outside
-(TODO: Insert illustration here)
+![location-ruins-keep.jpg](location-ruins-keep.jpg)
 ```
 Outside the ruins of the city of Karoc,
 There are indications of dig sites everywhere. While no more men works on the surface,
@@ -16,6 +21,9 @@ At the center of the town, a hole in the middle of a clearing, leading into part
 One of the half ruined buildings with a barely intact ceiling hosts a camp of cultists.
 ```
 
+Each cultist carries the latest message from the Herald. It can be easily decoded, with the solution shown here:
+![item-message-two-solution-key.png](item-message-two-solution-key.png)
+
 ![battlemap-keroc-town-center.jpeg](battlemap-keroc-town-center.jpeg)
 
 Mindless skeletons roam the perimeter, keeping away unarmed travellers. They are commanded to attack anyone not wearing red, or flee and alert when they observe anyone not wearing red.
@@ -23,57 +31,118 @@ An alarm alerts a hunting party of 2 Spearmen and 2 Hyenas.
 
 Every 8 hours, cultists in red robes appear above the ruins and change shift with the next group.
 
-## Temple Floor
+## Keroc Upper Ruins
 ![battlemap-karoc-temple.jpeg](battlemap-karoc-temple.jpeg)
 
 ### Entrance
 1 Spearmen 1 Guardian guard this area. They attack intruder, or call for Junka if the PCs are in disguise.
 
-> You maggots are standing around as if you're here to sightsee. Get your arses off to work!
+> What is this, another batch of recruits? What did they send you in for? Do you even remember?
+Actually, nevermind that. Burkle, talk to The Alchemist to see if she asked for more men.
+In the meantime, call me captain. I run this place. I need you all to get to digging as soon as you can.
 
 If he sees any weapons:
 
-> Why are you carrying weapons around like they belong to you? Hand those off to the Quartermaster now, then head off to work!
+> What are you doing with those weapons? A little overeager to fight for the cause, aren't you?
+Sort your gear out with the Quartermaster, then get to work!
+
+He sends the PCs to the next destination with directions, either the Armory or the Excavation Site.
 
 ### Armory
+![location-keroc-armory.jpeg](location-keroc-armory.jpeg)
+The crude iron reinforced doors leading to the room are locked (DC 18).
 
 ```
-A grizzled old veteran Orc oversees an arsenal of weapons, crude but neatly maintained and in tip top shape. He is working on the grindstone.
+A grizzled old veteran Orc oversees an arsenal of weapons, crude but neatly maintained.
+He stands up from the grinding wheel, looking half bored until he sees your equipment.
 ```
 
-> My name is Xugan, your quartermaster. Hand over your weapons, and maybe you'll have them back when the Brotherhood needs you to fight.
+> My name is Xugan, your quartermaster. Hand over your gears, and I'll make sure they serve the right cause when the time comes.
 
-Xugan inspects the weapons and notices that they are already well maintained
+As Xugan takes and inspects your gear, he grows suspicious.
 
-> I see that you are no ordinary farmers or workers. So, what are you really here for. Grave robbing? Spies for the Rats? Please don't tell me that baffoon Edwin or that slob Reginald sent you. For what they're paying you you might as well work at the docks hauling crates.
+> These are no cheap weapons from ordinary farm hands. So, what are you really doing here for?
+Be honest with me, and I promise that you won't get an axe to your neck.
+
+> If you want me to guess... treasure hunters? Spies for the Rats? Please don't tell me that baffoon Edwin or that slob Reginald
+sent you. For what they're paying you you might as well work at the docks earning double their rate.
 
 If the PCs are honest Xugan is willing to sell information and trade.
 
-Armory content: TBD
+**Armory content:** an assortment of common simple and martial weapons,
+and a small selection of armor for the troops. For magical gear: +1 butchering axe, +1 shortbow
 
 ### Central Courtyard
+![location-keroc-temple-grounds.jpg](location-keroc-temple-grounds.jpg)
+Jugka is almost always here with his two escorts (1 Guardian, 1 Spearman) ordering people around.
+The divine presense of Xovina can be felt here (anyone with Religion).
+A pack of 4 Hyenas rest here if they're not out hunting.  
+1 full squad of guards (2 Spearmen, 2 Guardians) patrol the halls.
 
-Jugka is almost always here with his two escorts (1 Guardian, 1 Spearman) ordering people around. The divine presense of Xovina can be felt here (anyone with Religion). A pack of 4 Hyenas rest here if they're not out hunting.  
-1 full set of guards (2 Spearmen, 2 Guardians) patrol the halls.
+### Burial Site and Price Renu Memorial
+![location-keroc-burial-chamber.jpeg](location-keroc-burial-chamber.jpeg)
+The entrance to the memorial is currently sealed and locked by two sets of gates.
+Jugka and Trixie each has a copy of the keys required to unlock the gates (DC 21)
 
-### Dig Site
+4 void worm swarms wander this area, 2 visible and 2 crawling on the ceiling.
+
+The podium reads:
 
 ```
-The sound of iron striking rock and dirt is constant here. Stuffy and smelling off sweat and rotting food, an ogre constantly commands the other cultists to dig, shovel, and move dirt.
+In dedication to our beloved Prince Renu,
+faithful servant of Xovina and ambassador of peace between Karoc and Xyndrasis.
 ```
 
-Digrot commands all the cultists here to continue digging with much cruelty. The cultists can be convinced to rebel against their master, and cause a distraction escaping through the entrance.
+The Darkstone amulet illuminates the wall in the dark, revealing murals of swirling water leading to the back of the room. 
+An ever shifting pattern of arcane symbols need to be depressed in the correct order to reveal the secret door.
+If pressed incorrectly, many sections of the walls painted by darkstone are trapped with jolts of electricity (1d6 electric damage)
+(DC 21 Disable Device or DC 18 Arcana to Discern)
+
+### Excavation Site
+![location-keroc-excavation.jpeg](location-keroc-excavation.jpeg)
+```
+The sound of iron striking rock and dirt is constant here.
+Stuffy and smelling off sweat and rotting food,
+an ogre swings his whip wildly and shouts constantly.
+The other cultists dig, shovel, and wheel dirt out,
+as well as the mess created by the ogre's constant eating.
+```
+
+> What are you standing here for? Grab a tool and get to work.
+You see rocks, dig! You see dirt, shovel! You see too much of either, wheel them out!
+And this don't mean the rest of you get your shift off either. Work your hours! Keep working!
+
+If the PCs comply, they gain Fatigue 1 for every hour they work, starting at the 30 minutes mark.  
+
+Digrot commands all the cultists here to continue digging with much cruelty.
+The cultists can be convinced to rebel against their master (DC 16 diplomacy or DC 18 intimidation),
+and cause a distraction while escaping through the entrance.
 
 ### Bone Sorting
+![location-keroc-morgue.jpeg](location-keroc-morgue.jpeg)
+Two cultist devotees are stationed here sorting bones into complete skeletons,
+pocketing treasures buried in the bones. Occasionally one hauls a load into the Summoning Chamber.  
 
-Two cultists are stationed here sorting bones into a complete skeleton, pocketing treasures buried in the bones. Occasionally one hauls a load into the Summoning Chamber.
+**Treasures:** onyx panther, mesmerizing opal, blue sapphire worth 10gp each (2)
 
-### Inner Chamer Passage
+### Inner Chamber Passage
 
-1 Spearman 1 Guardian patrol this area.
+A full squad (2 Spearman 2 Guardian) patrol this area. 
 
 ### Potion Brewing Room
+![location-keroc-brewery.jpeg](location-keroc-brewery.jpeg)
+Three cultist devotees work here. The cauldron can be spoiled to make it inert (DC 14)
+or produce negative effects (DC 21).  
 
-All potions here expire in 10 days. Crates of almost limitless Minor Alchemist's Fire is available here.
+Crates of almost limitless Crude Alchemist's Fire is available here.  
 
+**Crude Alchemist's Fire:** Expire in 10 day and has a 1/4 chance to fail on use.
+(DC 14 Perception to notice, DC 16 Crafting to know exact defects)
 
+### Summoning Chamber
+![location-keroc-summoning-chamber.jpeg](location-keroc-summoning-chamber.jpeg)
+Two necromancers work here. 6 skeleons can be activated to fight for the necromancers.
+
+### The Alchemist's Lab
+![location-keroc-alchemy-lab.jpeg](location-keroc-alchemy-lab.jpeg)
+Two skeletons armed with crossbows shoot on command.

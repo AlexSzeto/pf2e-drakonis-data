@@ -69,6 +69,12 @@ sent you. For what they're paying you you might as well work at the docks earnin
 
 If the PCs are honest Xugan is willing to sell information and trade.
 
+When asked about why he's willing to help the PCs, he answered:
+
+> I should have seen past the empty promises that Mak Gorim made the first time, much less the second;
+People like Junka aren't even on that level. A musclehead like him don't deserve to lead. I am through serving
+others who never had my interest in mine. I'll finish whatever work the rest of the people here deserve, and then I'm done. Gone.
+
 **Armory content:** an assortment of common simple and martial weapons,
 and a small selection of armor for the troops. For magical gear: +1 butchering axe, +1 shortbow
 

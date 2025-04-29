@@ -83,3 +83,13 @@ brotherhood history, and Dagon/Reaven's origin
 # Under the Ember's Shadow (2nd Firefall)
 1. The PCs head to Karoc. The outer city is swarming with skeleton patrol. They successfully kill their way into the inner city.
 2. The inner city had patrols with more elaborate directions. The PCs were not able to stop the alarm from sounding before the last skeleton is destroyed.
+
+(Session 4 Starts)
+1. After a failed bluff, the PCs are attacked by the guards outside the ruins. After killing some of them,
+one of the guards broke off in search of more help from the initiates. The PCs ran and hid. Only one heavily injured guardswoman recognize Grom.
+2. The PCs diguises themselves as new recruit and are sent to see the Quartermaster. He sees through the PCs disguise, gives the PC info about most of the dungeon,
+and urge them to save the initiates working on excavation.
+3. The PCs heads to the excavation site, defeats Digrot, and let the initiates loose. Junka and his escorts chase after the initiates.
+
+2. 
+3. while a search party was roused to search for them.

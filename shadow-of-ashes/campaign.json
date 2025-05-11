@@ -127,22 +127,22 @@
       ]
     },
     {
-      "path": "bgm-engarde-or-die.mp3",
       "label": "Engarde Or Die",
+      "path": "bgm-engarde-or-die.mp3",
       "tags": [
         "bgm"
       ]
     },
     {
-      "path": "bgm-sinister-pressure.mp3",
       "label": "Sinister Pressure",
+      "path": "bgm-sinister-pressure.mp3",
       "tags": [
         "bgm"
       ]
     },
     {
-      "path": "bgm-sound-tactics-prevail.mp3",
       "label": "Sound Tactics Prevail",
+      "path": "bgm-sound-tactics-prevail.mp3",
       "tags": [
         "bgm"
       ]
@@ -3670,92 +3670,92 @@
       ]
     },
     {
-      "path": "portrait-junka.jpeg",
       "label": "Junka",
+      "path": "portrait-junka.jpeg",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "portrait-xugan.jpeg",
       "label": "Xugan",
+      "path": "portrait-xugan.jpeg",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "portrait-trixie.jpeg",
       "label": "Trixie",
+      "path": "portrait-trixie.jpeg",
       "tags": [
         "portrait"
       ]
     },
     {
-      "path": "location-keroc-upper-ruins.jpeg",
       "label": "Keroc Upper Ruins",
+      "path": "location-keroc-upper-ruins.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-excavation.jpeg",
       "label": "Keroc Excavation",
+      "path": "location-keroc-excavation.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-armory.jpeg",
       "label": "Keroc Armory",
+      "path": "location-keroc-armory.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-morgue.jpeg",
       "label": "Keroc Morgue",
+      "path": "location-keroc-morgue.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-brewery.jpeg",
       "label": "Keroc Brewery",
+      "path": "location-keroc-brewery.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-alchemy-lab.jpeg",
       "label": "Keroc Alchemy Lab",
+      "path": "location-keroc-alchemy-lab.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-temple-grounds.jpg",
       "label": "Keroc Temple Grounds",
+      "path": "location-keroc-temple-grounds.jpg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "item-message-two-solution-key.png",
       "label": "Message Two Solution Key",
+      "path": "item-message-two-solution-key.png",
       "tags": [
         "item"
       ]
     },
     {
-      "path": "location-keroc-summoning-chamber.jpeg",
       "label": "Keroc Summoning Chamber",
+      "path": "location-keroc-summoning-chamber.jpeg",
       "tags": [
         "location"
       ]
     },
     {
-      "path": "location-keroc-burial-chamber.jpeg",
       "label": "Keroc Burial Chamber",
+      "path": "location-keroc-burial-chamber.jpeg",
       "tags": [
         "location"
       ]
@@ -3810,6 +3810,14 @@
       "level": 2,
       "notes": "Reward from Burt for saving the Hive",
       "sp": 0
+    },
+    {
+      "gp": 30,
+      "sp": 0,
+      "cp": 0,
+      "items": [],
+      "notes": "",
+      "level": 2
     }
   ]
 }

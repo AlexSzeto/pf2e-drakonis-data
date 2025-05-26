@@ -3335,6 +3335,20 @@
       "tags": [
         "docs"
       ]
+    },
+    {
+      "path": "ruins-of-keroc.md",
+      "label": "Ruins Of Keroc",
+      "tags": [
+        "docs"
+      ]
+    },
+    {
+      "path": "xyndrasis.md",
+      "label": "Xyndrasis",
+      "tags": [
+        "docs"
+      ]
     }
   ],
   "id": "shadow-of-ashes",
@@ -3770,6 +3784,11 @@
     {
       "label": "Keroc Town Center",
       "path": "maps-keroc-town-center.json",
+      "tags": []
+    },
+    {
+      "path": "xyndrasis.json",
+      "label": "Xyndrasis",
       "tags": []
     }
   ],

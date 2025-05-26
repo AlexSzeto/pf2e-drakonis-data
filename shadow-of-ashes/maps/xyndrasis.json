@@ -1,0 +1,127 @@
+{
+  "width": 25,
+  "height": 21,
+  "tiles": [
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 480
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 480
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1440,
+      "y": 480
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 960
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 960
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1440,
+      "y": 960
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 480
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 1560
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 1560
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1560
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 1560
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1440,
+      "y": 1560
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 1800
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 1800
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1800
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 1800
+    },
+    {
+      "path": "I-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1440,
+      "y": 1800
+    },
+    {
+      "path": "IA-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1440,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1620,
+      "y": 1560
+    }
+  ],
+  "props": []
+}

@@ -3773,6 +3773,13 @@
       "tags": [
         "location"
       ]
+    },
+    {
+      "path": "map-xyndrasis.jpg",
+      "label": "Map Xyndrasis",
+      "tags": [
+        "map"
+      ]
     }
   ],
   "maps": [

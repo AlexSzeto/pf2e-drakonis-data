@@ -149,3 +149,25 @@ Two necromancers work here. 6 skeleons can be activated to fight for the necroma
 ### The Alchemist's Lab
 ![location-keroc-alchemy-lab.jpeg](location-keroc-alchemy-lab.jpeg)
 Two skeletons armed with crossbows shoot on command.
+
+Trixie's loot table:
+
+- Research notes:
+> Compared to the elegance of mutagens, alchemical grenades are such blunt, inelegant weapons. Alas,
+it is what I am tasked to produce and what I will deliver.
+**Trixie's Alchemist Fire**
+Using the regular formula, the chemicals become inert in two weeks.
+- Adding extra doses of the retardant spoils the chemicals and make them immediately inert. A **(DC 16)** precise measurement can
+make this addition undetectable.
+- Adding pinches of accelerant (Trixie's lab contains several vials of these red powders) can turn the
+vials into time bombs. The vials can be timed to self detonate within days **(DC 16)**, hours **(DC 18)**, or minutes **(DC 20)**.
+When the vials are time tempered, a *Critical Success* means the timing is precisely tuned to the next unit of measurements.
+A *Success* means it'd be off by 1d6 of the next unit of measurement, a *Failure* means the chemicals can no longer be
+tempered again without immediately exploding, and a *Critical Failure* means the chemicals explode **immediately**.
+
+- Letters from Darthic (The Herald)
+> Mak Gorim is as cunning as he is ruthlessly brutal in the art of war. Tread lightly, and do the rouse
+the dragon's suspicion to our schemes.
+Written in elvish, the letters are as much scathing critisicm of Mak Gorim's scheme as it is a warning to Trixie
+about his ingenuity. The tone suggests a planned betrayal in the distant future, but nothing explicit in the letters give this away.
+

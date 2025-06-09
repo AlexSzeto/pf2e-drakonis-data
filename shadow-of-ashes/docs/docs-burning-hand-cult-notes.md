@@ -6,8 +6,8 @@
 **(74 ES 19 Petalweald)** First diary entry, Dagon leaves Soliarch.  
 **(74-83 ES)** Dagon establish a collective farm with his friend Torbek  
 **(84 ES)** Torbek meets and marries Rydia (before she became Reaven)  
-**(92 ES Firefall)** Year of extra dry weather causing bad harvest  
-**(92 ES 10 Snowveil)** Night of Terror - Torbek made an example of and died,
+**(92 ES)** Year of extra dry weather causing bad harvest  
+**(92 ES 10 Firefall)** Night of Terror - Torbek made an example of and died,
 killed by then militia captain Reginald Thorne (now captain of the Stormwatch).  
 **(92 ES Bladewind)** Rydia, now Reaven, the Scarred Man, Dagon, and others found the Burning Hands Brotherhood. Meeting occurs monthly on the 10th.  
 **(99 ES)** Mak Gorim joins the Brotherhood and begins military training for Orcs in the ranks  

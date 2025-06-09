@@ -91,5 +91,8 @@ one of the guards broke off in search of more help from the initiates. The PCs r
 and urge them to save the initiates working on excavation.
 3. The PCs heads to the excavation site, defeats Digrot, and let the initiates loose. Junka and his escorts chase after the initiates.
 
-2. 
-3. while a search party was roused to search for them.
+(Session 5 Starts)
+1. The PCs chased off the bone pickers, defeated a squad of guards, defeated the necromancers, and killed Trixie.
+2. PCs reached level 3.
+
+# The invasion was planned to occur on the 10th of Firefall.

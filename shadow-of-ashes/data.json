@@ -3795,6 +3795,41 @@
       "tags": [
         "map"
       ]
+    },
+    {
+      "path": "location-rats-nest.jpg",
+      "label": "Rat's Nest",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-overlook.jpg",
+      "label": "Xyndrasis Overlook",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-hethor.jpg",
+      "label": "Portrait Hethor",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-nerkith.jpg",
+      "label": "Portrait Nerkith",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-yisha.jpeg",
+      "label": "Portrait Yisha",
+      "tags": [
+        "portrait"
+      ]
     }
   ],
   "maps": [

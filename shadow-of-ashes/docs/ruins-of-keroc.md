@@ -151,7 +151,11 @@ Two necromancers work here. 6 skeleons can be activated to fight for the necroma
 Two skeletons armed with crossbows shoot on command.
 
 Trixie's loot table:
-
+* Items on body
+* Coyote Cloak
+* Monkey Pin (on armor)
+* 4x Amethyst (on armor), +20g
+* Minted Cold Iron Token with the inscription: Proof of purchase Borja Amberweight
 - Research notes:
 > Compared to the elegance of mutagens, alchemical grenades are such blunt, inelegant weapons. Alas,
 it is what I am tasked to produce and what I will deliver.

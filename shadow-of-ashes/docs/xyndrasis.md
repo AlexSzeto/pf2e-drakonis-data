@@ -9,7 +9,36 @@ blue glow of the signs and symbols lit by the darkstone crystals,
 you make slow and steady progress downwards deeper into the labrinth.
 ```
 
+# Nightbloom
+
+* Identify as blight DC 16 (Nature)
+* Ashling lore DC 18 (Society)
+* Dreamweaver property DC 23 (Crafting - Alchemy)
+
+**Dreamweaver**: Neurotoxin. Onset 2 days, DC 14 Will, each stage lasts 1 day  
+Stage 1-2 Clumsy 1,  
+Stage 3-4 Clumsy 1 Stupified 1  
+Stage 5 Death (Brain Dead)  
+
 # Encounters in the tunnels
+
+## Off the Beaten Path
+Should the party decide to not follow the signs, 1d4:
+
+### 1. Collapsing Tunnel
+Rocks collapse, splitting the party and dealing 1d6 damage to anyone
+trapped between the rocks. Relevant skills (Nature, Survival) DC 12 to spot.
+
+### 2. Glow Spores
+A colony of nightbloom grows rapidly up a cliff.
+
+### 3. Dead refugees
+Long dead refugees with valuables: 1d10gp 1d10sp, Aeon Stone, Diary:
+On the way down to Xyndrasis lost sight of the main group and trapped
+in the tunnels, starved to death.
+
+### 4. Ghost of the refugees
+Can lead PCs to encounter #3 DC 14 Diplomacy. Leaves when threatened.
 
 ## Rescuing Hethor
 The familiar clicking sound of Carrion Beetles are mixed with the battle grunts of
@@ -65,9 +94,9 @@ trapped.
 - **A** Survivor's Refuge  
 - **B** Armory  
 While the breached outer room consists of common weapons, armor (including half plates), and equipment,
-the locked treasury room contains magical items.
+the locked treasury room contains magical items. 1x wand, 1x staff of healing
 - **C** Moonlit Bladeworks (Blacksmith)  
-One magic shield is worn and undergoing repair, but is usable.
+One +1 striking magic weapon was freshly restored.
 - **D** Arcanum of Mastery  
 Scrolls, one wand, one enchanted cloak
 - **E** Granary (Mostly Depleted)

@@ -1,0 +1,566 @@
+{
+  "width": 30,
+  "height": 22,
+  "tiles": [
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1920,
+      "y": 720
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1920,
+      "y": 1200
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 960
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 1200
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 1680
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 960
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1200
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1680
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 1080
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 1080
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 1440
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 1440
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 1800
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 1800
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 720
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 720
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 840
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 2400,
+      "y": 840
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 1200
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 2400,
+      "y": 1200
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 1560
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 2400,
+      "y": 1560
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2280,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1920,
+      "y": 1680
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 1680
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 1920,
+      "y": 2160
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 2040,
+      "y": 2160
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 2160,
+      "y": 2160
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 2280,
+      "y": 2160
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 480
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 2280,
+      "y": 480
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2760,
+      "y": 480
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2760,
+      "y": 960
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2760,
+      "y": 1440
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2760,
+      "y": 1920
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 480
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 960
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 1440
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 1920
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 2160
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 2160
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 2160
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2640,
+      "y": 2160
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 2760,
+      "y": 2160
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 2760,
+      "y": 420
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1500,
+      "y": 420
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1500,
+      "y": 2160
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 420
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 420
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2520,
+      "y": 420
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 600
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2280,
+      "y": 600
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 600
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2040,
+      "y": 480
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 480
+    }
+  ],
+  "props": [
+    {
+      "x": 1560,
+      "y": 480,
+      "width": 240,
+      "height": 240,
+      "label": "Frost"
+    },
+    {
+      "x": 1920,
+      "y": 600,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 2160,
+      "y": 600,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 1560,
+      "y": 840,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 1920,
+      "y": 1080,
+      "width": 240,
+      "height": 240,
+      "label": "Void"
+    },
+    {
+      "x": 2160,
+      "y": 1080,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 2520,
+      "y": 480,
+      "width": 240,
+      "height": 240,
+      "label": "Void"
+    },
+    {
+      "x": 1560,
+      "y": 1200,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 2520,
+      "y": 840,
+      "width": 240,
+      "height": 240,
+      "label": "Frost"
+    },
+    {
+      "x": 1560,
+      "y": 1560,
+      "width": 240,
+      "height": 240,
+      "label": "Void"
+    },
+    {
+      "x": 1920,
+      "y": 1320,
+      "width": 240,
+      "height": 240,
+      "label": "Frost"
+    },
+    {
+      "x": 2160,
+      "y": 1320,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 2520,
+      "y": 1200,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 1560,
+      "y": 1920,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 1920,
+      "y": 1800,
+      "width": 240,
+      "height": 240,
+      "label": "Frost"
+    },
+    {
+      "x": 2160,
+      "y": 1800,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 2520,
+      "y": 1560,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 2520,
+      "y": 1920,
+      "width": 240,
+      "height": 240,
+      "label": "Void"
+    },
+    {
+      "x": 2040,
+      "y": 840,
+      "width": 240,
+      "height": 240,
+      "label": "Nirxalis"
+    },
+    {
+      "x": 2040,
+      "y": 1560,
+      "width": 240,
+      "height": 240,
+      "label": "Xovina"
+    },
+    {
+      "x": 2280,
+      "y": 840,
+      "width": 240,
+      "height": 240,
+      "label": "Void"
+    },
+    {
+      "x": 1800,
+      "y": 840,
+      "width": 240,
+      "height": 240,
+      "label": "Poison"
+    },
+    {
+      "x": 1800,
+      "y": 1560,
+      "width": 240,
+      "height": 240,
+      "label": "Shock"
+    },
+    {
+      "x": 2280,
+      "y": 1560,
+      "width": 240,
+      "height": 240,
+      "label": "Frost"
+    }
+  ]
+}

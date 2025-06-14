@@ -20,13 +20,13 @@ Malkavians -> Felscribed
 
 # The Dragon Gods of Drakonis
 
-Solaris
-Xovina
-Tharudain
+Solaris  
+Xovina  
+Tharudain  
 
-Nyxalis
-Pyra
-Aelindra
+Nerxalis  
+Pyra  
+Aelindra  
 
 # Highmountain Dwarf Clans (Serving Tharudain Directly):
 - Innovator

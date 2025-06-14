@@ -1354,6 +1354,111 @@
       "type": "Creature 1"
     },
     {
+      "name": "Hunting Spider (Elite)",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+9; darkvision, web sense"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Acrobatics +9, Athletics +7, Stealth +9"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+2"
+        },
+        {
+          "name": "Dex",
+          "text": "+4"
+        },
+        {
+          "name": "Con",
+          "text": "+1"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "+2"
+        },
+        {
+          "name": "Cha",
+          "text": "-4"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "19"
+        },
+        {
+          "name": "Fort",
+          "text": "+8"
+        },
+        {
+          "name": "Ref",
+          "text": "+11"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "26"
+        },
+        {
+          "action": "reaction",
+          "name": "Spring Upon Prey",
+          "newline": true,
+          "text": "**Requirements** Initiative not  rolled; **Trigger** A creature touches the hunting spider's web while the spider is on it; **Effect** The hunting spider automatically notices the creature and Strides, Climbs, or Descends on a Web before it rolls initiative."
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "25"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "fangs +11 1d6+4 P"
+        },
+        {
+          "action": "single",
+          "name": "Ranged",
+          "newline": true,
+          "text": "web +9 **Effect** Web Trap"
+        },
+        {
+          "action": "single",
+          "name": "Descend on a Web",
+          "newline": true,
+          "text": " The hunting spider moves straight down a web line up to 40 feet. Striking the web (AC 20, Hardness 3, 5 HP) severs it, causing the spider to fall."
+        },
+        {
+          "name": "Hunting Spider Venom",
+          "newline": true,
+          "text": " (poison) **Saving Throw** DC 16 Fortitude; Maximum Duration 6 rounds; **Stage 1** 1d4 poison damage and off-guard (1 round); **Stage 2** 1d6 poison damage, clumsy 1, and off-guard (1 round); **Stage 3** 1d6 poison damage, clumsy 2, and off-guard (1 round)"
+        },
+        {
+          "name": "Web Trap",
+          "newline": true,
+          "text": "A creature hit by the hunting spider's web Strike is immobilized and stuck to the nearest surface until it Escapes (DC 17)."
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Animal"
+      ],
+      "type": "Creature 2"
+    },
+    {
       "name": "Kerissa",
       "stats": [
         {
@@ -3205,7 +3310,7 @@
       "type": "Barbarian 3"
     },
     {
-      "name": "Void Worms Swarm",
+      "name": "Blight Worms Swarm",
       "stats": [
         {
           "name": "Perception",
@@ -3283,20 +3388,107 @@
         {
           "name": "Swarming Bite",
           "newline": true,
-          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Fortitude save. On fail, be exposed to Void Rot."
+          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Fortitude save. On fail, be exposed to Blight."
         },
         {
-          "name": "Void Rot",
+          "name": "Blight",
           "newline": true,
-          "text": "the void energy quickly consume the victim's life force. **Saving Throw** DC 14 Fortitude **Maximum Duration** 3 rounds **Stage 1** 1d4 void damage, Drained 1 (1 round) **Stage 2** 1d6 void damage, Drained 2 (1 round) **Stage 3** 1d8 void damage, Drained 3 (1 round)"
+          "text": "the void energy quickly consume the victim's life force. 1d4 poison damage, and 1d4 persistent poison damage."
         }
       ],
       "traits": [
         "Medium",
-        "Outsider",
+        "Aberration",
         "Swarm"
       ],
       "type": "Creature 0"
+    },
+    {
+      "name": "Animated Statue",
+      "type": "Creature 3",
+      "traits": [
+        "Large",
+        "Construct",
+        "Mindless"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+9; Darkvision"
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +11",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+4",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-2"
+        },
+        {
+          "name": "Con",
+          "text": "+5"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "AC",
+          "text": "19",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+12"
+        },
+        {
+          "name": "Ref",
+          "text": "+5"
+        },
+        {
+          "name": "Will",
+          "text": "+5"
+        },
+        {
+          "name": "HP",
+          "text": "35",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, doomed, drained, fatigue, healing, mental, non-lethal attacks, paralyzed, poison, sickened, spirit, vitality, void"
+        },
+        {
+          "name": "Speed",
+          "text": "20",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "fist +11 1d8+6 B plus Grab",
+          "newline": true
+        },
+        {
+          "name": "Construct Armor",
+          "text": "Reduce all damage by (**Hardness** 6). After reduced below half HP or taking a critical hit, armor is broken (**AC** to 15, no more hardness)",
+          "newline": true
+        }
+      ]
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -3332,7 +3524,12 @@
     },
     {
       "label": "World Building - Drakonis",
-      "path": "campaign-overview.md"
+      "path": "campaign-overview.md",
+      "entry": {
+        "path": "campaign-overview.md",
+        "label": "CAMPAIGN OVERVIEW.MD",
+        "tags": []
+      }
     },
     {
       "label": "Burning Hand Cult Notes",
@@ -3830,6 +4027,13 @@
       "tags": [
         "portrait"
       ]
+    },
+    {
+      "path": "location-stormhaven-riots.jpg",
+      "label": "Stormhaven Riots",
+      "tags": [
+        "location"
+      ]
     }
   ],
   "maps": [
@@ -3847,6 +4051,16 @@
       "path": "xyndrasis.json",
       "label": "Xyndrasis",
       "tags": []
+    },
+    {
+      "path": "temple-first-floor.json",
+      "label": "Temple First Floor",
+      "tags": [],
+      "entry": {
+        "path": "temple-first-floor.json",
+        "label": "Temple First Floor",
+        "tags": []
+      }
     }
   ],
   "name": "Shadow of Ashes",

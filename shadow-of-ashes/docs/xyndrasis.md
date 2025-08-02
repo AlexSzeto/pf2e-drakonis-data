@@ -9,44 +9,20 @@ blue glow of the signs and symbols lit by the darkstone crystals,
 you make slow and steady progress downwards deeper into the labrinth.
 ```
 
-# Nightbloom
+# Mind Rot
+Poison (Neurotoxin) DC 16 Fort
+Stage 1 Drained 1, duration 1 day  
+Stage 2 Drained 2, Slowed 1, duration 1 day  
+Stage 3 Drained 3, Slowed 1, Stupefied 1, duration 1 day  
+Stage 4 Drained 4, Slowed 1, Stupefied 1, duration 1 day  
+Stage 5 Death (Becomes an Infected)
 
-* Identify as blight DC 16 (Nature)
-* Ashling lore DC 18 (Society)
-* Dreamweaver property DC 23 (Crafting - Alchemy)
+**Drained**: -Con check, Fort save. -HP/Max HP = value * PC level
+**Slowed**: -Action
+**Stupefied**: -Int/Wis/Char checks (spell atk, spell DC), must make DC5+value flat check to cast spell
 
-**Dreamweaver**: Neurotoxin. Onset 2 days, DC 14 Will, each stage lasts 1 day  
-Stage 1-2 Clumsy 1,  
-Stage 3-4 Clumsy 1 Stupified 1  
-Stage 5 Death (Brain Dead)  
-
-# Encounters in the tunnels
-
-## Off the Beaten Path
-Should the party decide to not follow the signs, 1d4:
-
-### 1. Collapsing Tunnel
-Rocks collapse, splitting the party and dealing 1d6 damage to anyone
-trapped between the rocks. Relevant skills (Nature, Survival) DC 12 to spot.
-
-### 2. Glow Spores
-A colony of nightbloom grows rapidly up a cliff.
-
-### 3. Dead refugees
-Long dead refugees with valuables: 1d10gp 1d10sp, Aeon Stone, Diary:
-On the way down to Xyndrasis lost sight of the main group and trapped
-in the tunnels, starved to death.
-
-### 4. Ghost of the refugees
-Can lead PCs to encounter #3 DC 14 Diplomacy. Leaves when threatened.
-
-## Rescuing Hethor
-The familiar clicking sound of Carrion Beetles are mixed with the battle grunts of
-another humanoid. The PCs can follow the sound down a path where they'd encounter
-Hethor battling two infected Carrion Beetles. Hethor is scouting and attempting
-to map out the tunnels (poorly). He is injured. He does not know the exact way
-back, but can fumble back to Xyndrasis at half the rate that the PCs can travel
-following the signs.
+**Purging Tonic**: Consumable item
+Removes Mind Rot and replace it with Sickened equal to the Mind Rot Stage being purged.
 
 ## Grand Overlook
 
@@ -71,7 +47,7 @@ be saved.
 
 ## Exiles
 
-Led by Nerkith, a grizzled and hardy farmer who is calm but firm, insists that his
+Led by Nerkith, a grizzled and hardy cleric of Nerxalis who is calm but firm, insists that his
 group of 20 and everyone else leave through the tunnels.
 
 # What the ashlings know about the situation:
@@ -93,12 +69,18 @@ trapped.
 ![map-xyndrasis.jpg](map-xyndrasis.jpg)
 - **A** Survivor's Refuge  
 - **B** Armory  
-While the breached outer room consists of common weapons, armor (including half plates), and equipment,
-the locked treasury room contains magical items. 1x wand, 1x staff of healing
+While the breached outer room consists of common weapons (buckler, clubs, morning stars, flails, rapiers, bows, arrows), armor (leather, chainmail, half plates), and equipment (torches, belts),
+the locked treasury room contains 
+**spiked gauntlet +1,**  
+**+1 striking rapier,**  
+**32 gold,**  
 - **C** Moonlit Bladeworks (Blacksmith)  
-One +1 striking magic weapon was freshly restored.
+??
 - **D** Arcanum of Mastery  
-Scrolls, one wand, one enchanted cloak
+**wand of charm (Nerxalis aligned),**  
+**onyx panther (Nerxalis aligned),**  
+**staff of healing (Xovina aligned),**  
+**crying angel pendant (Xovina aligned)**  
 - **E** Granary (Mostly Depleted)
 - **F** Xyndrash Estate  
 The early notes about Renu's research can be found here. Properties of the Tear

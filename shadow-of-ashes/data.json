@@ -3310,7 +3310,7 @@
       "type": "Barbarian 3"
     },
     {
-      "name": "Blight Worms Swarm",
+      "name": "Mind Crawler Swarm",
       "stats": [
         {
           "name": "Perception",
@@ -3388,12 +3388,7 @@
         {
           "name": "Swarming Bite",
           "newline": true,
-          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Fortitude save. On fail, be exposed to Blight."
-        },
-        {
-          "name": "Blight",
-          "newline": true,
-          "text": "the void energy quickly consume the victim's life force. 1d4 poison damage, and 1d4 persistent poison damage."
+          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Reflex save. On fail, gain 1 stage of Mind Rot."
         }
       ],
       "traits": [
@@ -3559,6 +3554,18 @@
       "entry": {
         "path": "xyndrasis.md",
         "label": "XYNDRASIS.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrasis-labarinth.md",
+      "label": "Xyndrasis Labarinth",
+      "tags": [
+        "docs"
+      ],
+      "entry": {
+        "path": "xyndrasis-labarinth.md",
+        "label": "XYNDRASIS LABARINTH.MD",
         "tags": []
       }
     }

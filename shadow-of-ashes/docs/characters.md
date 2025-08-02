@@ -35,7 +35,12 @@ Controlled the Tear of Invention
 
 ### Zara Xyndrash
 ![img](portrait-zara.jpg)
-Sealed the royal chambers and escaped to Faewind during the orcish invasion
+Left Xyndrasis with a group of followers to try and reestablish relationships with the Fae,
+and left for Faewind after the orcish invasion
+
+### Yi'tha Xyndrash
+![img](portrait-yitha.jpeg)
+Fiesty younger sister of Zara. Black sheep of the family.
 
 ### Prince Renu
 Experimented with the Tear to create weaponized life and accidentally unleashed mana swarms

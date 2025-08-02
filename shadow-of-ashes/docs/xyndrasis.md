@@ -9,20 +9,20 @@ blue glow of the signs and symbols lit by the darkstone crystals,
 you make slow and steady progress downwards deeper into the labrinth.
 ```
 
-# Mind Rot
-Poison (Neurotoxin) DC 16 Fort
-Stage 1 Drained 1, duration 1 day  
-Stage 2 Drained 2, Slowed 1, duration 1 day  
-Stage 3 Drained 3, Slowed 1, Stupefied 1, duration 1 day  
-Stage 4 Drained 4, Slowed 1, Stupefied 1, duration 1 day  
-Stage 5 Death (Becomes an Infected)
+# Void Rot
+Poison (Neurotoxin) DC 18 Fort
+Stage 1 1d6 void damage, duration 1 day
+Stage 1 1d6 void damage, Drained 1, duration 1 day  
+Stage 2 1d6 void damage, Drained 2, Slowed 1, duration 1 day  
+Stage 4 1d6 void damage, Drained 4, Slowed 1, Stupefied 1, duration 1 day  
+Stage 5 Death (Becomes a Void Undead)
 
 **Drained**: -Con check, Fort save. -HP/Max HP = value * PC level
 **Slowed**: -Action
 **Stupefied**: -Int/Wis/Char checks (spell atk, spell DC), must make DC5+value flat check to cast spell
 
 **Purging Tonic**: Consumable item
-Removes Mind Rot and replace it with Sickened equal to the Mind Rot Stage being purged.
+Removes Void Rot and replace it with Sickened equal to the Void Rot Stage being purged.
 
 ## Grand Overlook
 

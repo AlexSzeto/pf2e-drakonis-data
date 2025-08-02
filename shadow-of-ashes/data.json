@@ -3310,7 +3310,7 @@
       "type": "Barbarian 3"
     },
     {
-      "name": "Mind Crawler Swarm",
+      "name": "Void Crawler Swarm",
       "stats": [
         {
           "name": "Perception",
@@ -3388,7 +3388,7 @@
         {
           "name": "Swarming Bite",
           "newline": true,
-          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 14 basic Reflex save. On fail, gain 1 stage of Mind Rot."
+          "text": "[single] Enemy in void worm's space takes 1d4 piercing damage and make DC 18 basic Reflex save. On fail, gain 1 stage of Void Rot."
         }
       ],
       "traits": [
@@ -3399,7 +3399,7 @@
       "type": "Creature 0"
     },
     {
-      "name": "Animated Statue",
+      "name": "Arcane Guardian",
       "type": "Creature 3",
       "traits": [
         "Large",
@@ -3408,8 +3408,13 @@
       ],
       "stats": [
         {
+          "name": "Base Creature",
+          "text": "Animated Statue"
+        },
+        {
           "name": "Perception",
-          "text": "+9; Darkvision"
+          "text": "+9; Darkvision",
+          "newline": true
         },
         {
           "name": "Skills",
@@ -3481,6 +3486,217 @@
         {
           "name": "Construct Armor",
           "text": "Reduce all damage by (**Hardness** 6). After reduced below half HP or taking a critical hit, armor is broken (**AC** to 15, no more hardness)",
+          "newline": true
+        },
+        {
+          "name": "Heartstone",
+          "text": "A critical hit attacks the heartstone directly. The heartstone has **Hardness 6** but any damage dealt to it destroys the animated statue immediately.",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Void Zealot",
+      "type": "Creature 5",
+      "traits": [
+        "Medium",
+        "Mindless",
+        "Undead"
+      ],
+      "stats": [
+        {
+          "name": "Base Creature",
+          "text": "Tomb Jelly"
+        },        
+        {
+          "name": "Perception",
+          "text": "+7; Lifesense 20 ft",
+          "newline": true
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +13",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+6",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-5"
+        },
+        {
+          "name": "Con",
+          "text": "+6"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "AC",
+          "text": "12",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+15"
+        },
+        {
+          "name": "Ref",
+          "text": "+4"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "text": "150",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, mental, paralyzed, poison, unconscious"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "slashing 5, vitality 5"
+        },
+        {
+          "name": "Speed",
+          "text": "15",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "pseudopod +15 1d8+6 B, Touch of Oblivion",
+          "newline": true
+        },
+        {
+          "name": "Touch of Oblivion",
+          "text": "(curse, divine, void) 1d6 persistent void damage.",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Void Zombie",
+      "type": "Creature 1",
+      "traits": [
+        "Medium",
+        "Mindless",
+        "Undead",
+        "Unholy",
+        "Zombie"
+      ],
+      "stats": [
+        {
+          "name": "Base Creature",
+          "text": "Plague Zombie"
+        },        
+        {
+          "name": "Perception",
+          "text": "+3; Lifesense 20 ft, darkvision",
+          "newline": true
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +9",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+4",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-2"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-2"
+        },
+        {
+          "name": "AC",
+          "text": "13",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+6"
+        },
+        {
+          "name": "Ref",
+          "text": "+3"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "text": "50",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, mental, paralyzed, poison, unconscious"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "slashing 10, vitality 10"
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Slow",
+          "text": "Slow 1, and cannot use reactions",
+          "newline": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "fist +9 1d8+4 B plus grab",
+          "newline": true
+        },
+        {
+          "name": "Inject Worms",
+          "action": "single",
+          "text": "**Requirements** creature is grabbed or restrained **Effect** Void Zombie (Plague Zombie) eject worms from mouth to bite at +9 for 1d12+4 piercing plus 1 stage of Void Rot",
+          "newline": true
+        },
+        {
+          "name": "Expel Worms",
+          "action": "single",
+          "text": "On death, the corpse explodes into a Void Crawler Swarm at the start of the zombie's next turn. Applying area or splash damage to the corpse destroys the worms immediately.",
           "newline": true
         }
       ]

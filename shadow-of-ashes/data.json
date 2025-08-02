@@ -4108,6 +4108,39 @@
       "items": [],
       "notes": "",
       "level": 2
+    },
+    {
+      "gp": 0,
+      "sp": 0,
+      "cp": 0,
+      "items": [
+        {
+          "level": 4,
+          "type": "permanent",
+          "name": "Spacious Pouch"
+        },
+        {
+          "level": 1,
+          "type": "consumable",
+          "name": "Monkey Pin"
+        }
+      ],
+      "notes": "",
+      "level": 3
+    },
+    {
+      "gp": 0,
+      "sp": 5,
+      "cp": 0,
+      "items": [
+        {
+          "level": 1,
+          "type": "permanent",
+          "name": "Aeon Stone Consumed"
+        }
+      ],
+      "notes": "",
+      "level": 3
     }
   ]
 }

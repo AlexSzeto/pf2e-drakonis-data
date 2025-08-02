@@ -146,6 +146,30 @@
       "tags": [
         "bgm"
       ]
+    },
+    {
+      "path": "bgm-blind-terror.mp3",
+      "label": "Blind Terror",
+      "tags": [
+        "bgm",
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-rocky-horror-showdown.mp3",
+      "label": "Rocky Horror Showdown",
+      "tags": [
+        "bgm",
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-burdens-of-our-decay.mp3",
+      "label": "Burdens Of Our Decay",
+      "tags": [
+        "bgm",
+        "looping"
+      ]
     }
   ],
   "cards": [

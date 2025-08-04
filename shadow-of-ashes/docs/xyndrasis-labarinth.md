@@ -9,6 +9,8 @@ blue glow of the signs and symbols lit by the darkstone crystals,
 you make slow and steady progress downwards deeper into the labrinth.
 ```
 
+# E'lohtolpa
+
 # Nightbloom
 
 * Identify as blight DC 16 (Nature)

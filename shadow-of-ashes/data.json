@@ -4496,6 +4496,20 @@
       "tags": [
         "location"
       ]
+    },
+    {
+      "path": "portrait-zero.jpeg",
+      "label": "Zero",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-hethor-fixed.png",
+      "label": "Hethor (Fixed)",
+      "tags": [
+        "portrait"
+      ]
     }
   ],
   "maps": [

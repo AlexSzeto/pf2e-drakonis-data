@@ -96,3 +96,17 @@ and urge them to save the initiates working on excavation.
 2. PCs reached level 3.
 
 # The invasion was planned to occur on the 10th of Firefall.
+
+(Session 6 Starts)
+1. The PCs entered the burial chamber, solved the door puzzle, and entered the tunnels.
+2. The PCs reunited an ashling exile ghost with her family.
+3. The PCs crossed the overlook, sees Xyndrasis from above.
+4. The PCs killed 2 infected beetles and rescued Hethor.
+
+(Session 7 Starts)
+1. The PCs are led by Hethor to the survivor's camp. They collected food (Nightbloom as an excuse)
+2. Yi'tha push to investigate the city and Nerkith wants the PCs to surrender the darkstone amulet
+3. The PCs head to the mansion in hope of finding a spare and the command codes for the arcane golem
+4. The PCs secure some scrolls from the Arcane Academy while escaping Void Zombies.
+5. The PCs enter the mansion from the 2nd level, through the balcony.
+6. Yitha's HP is at 26 at the end of the session.

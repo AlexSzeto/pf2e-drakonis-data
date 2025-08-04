@@ -15,7 +15,7 @@ Stage 5 Death (Becomes a Void Undead)
 **Slowed**: -Action
 **Stupefied**: -Int/Wis/Char checks (spell atk, spell DC), must make DC5+value flat check to cast spell
 
-**Purging Tonic**: Consumable item
+**Purging Tonic (Absolut Solvent)**: Consumable item
 Removes Void Rot and replace it with Sickened equal to the Void Rot Stage being purged.
 
 # Xyndrasis overview

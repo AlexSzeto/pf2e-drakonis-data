@@ -24,7 +24,7 @@ Surrounded by nightbloom (blight), the bioluminescent fungi grows freely outside
 Flesh is made into flour. Spore is mildly toxic to non ashlings (Dreamweave poison). Can be refined into various medication including purging tonic.
 
 ## Zombies as environment hazard
-Each PC roll base DC 18 (Athletics outer edges, Survival/Stealth on the streets). on failed check roll 1D6 on damage table:
+Each PC roll base DC 20 (Athletics outer edges, Survival/Stealth on the streets). on failed check roll 1D6 on damage table:
 - 1. crawler bite (1d4 piercing)
 - 2. crawler bite (1d4 piercing)
 - 3. zombie bite (1d8+4 blunt)

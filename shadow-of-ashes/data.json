@@ -3849,7 +3849,12 @@
   "docs": [
     {
       "label": "Session History",
-      "path": "session-history.md"
+      "path": "session-history.md",
+      "entry": {
+        "path": "session-history.md",
+        "label": "SESSION HISTORY.MD",
+        "tags": []
+      }
     },
     {
       "label": "Session Plan",
@@ -3930,6 +3935,18 @@
       "entry": {
         "path": "xyndrasis-labarinth.md",
         "label": "XYNDRASIS LABARINTH.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrash-manor.md",
+      "label": "Xyndrash Manor",
+      "tags": [
+        "docs"
+      ],
+      "entry": {
+        "path": "xyndrash-manor.md",
+        "label": "XYNDRASH MANOR.MD",
         "tags": []
       }
     }
@@ -4509,6 +4526,27 @@
       "label": "Hethor (Fixed)",
       "tags": [
         "portrait"
+      ]
+    },
+    {
+      "path": "xyndrash-manor-b.jpeg",
+      "label": "Xyndrash Manor B",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "xyndrash-manor-lv1.jpeg",
+      "label": "Xyndrash Manor Lv1",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "xyndrash-manor-lv2.jpeg",
+      "label": "Xyndrash Manor Lv2",
+      "tags": [
+        "battlemap"
       ]
     }
   ],

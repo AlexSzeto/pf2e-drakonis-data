@@ -195,30 +195,6 @@
       "y": 360
     },
     {
-      "path": "I-TRP-HeavyWall.png",
-      "rotation": 0,
-      "x": 1380,
-      "y": 240
-    },
-    {
-      "path": "I-TRP-HeavyWall.png",
-      "rotation": 0,
-      "x": 1380,
-      "y": 120
-    },
-    {
-      "path": "I-TRP-HeavyWall.png",
-      "rotation": 0,
-      "x": 1380,
-      "y": 360
-    },
-    {
-      "path": "I-TRP-HeavyWall.png",
-      "rotation": 0,
-      "x": 1380,
-      "y": 480
-    },
-    {
       "path": "A-TRP-HeavyWall.png",
       "rotation": 90,
       "x": 720,
@@ -673,6 +649,30 @@
       "rotation": 0,
       "x": 1560,
       "y": 1200
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 480
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 360
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 240
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 120
     }
   ],
   "props": [

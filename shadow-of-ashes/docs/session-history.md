@@ -107,6 +107,7 @@ and urge them to save the initiates working on excavation.
 1. The PCs are led by Hethor to the survivor's camp. They collected food (Nightbloom as an excuse)
 2. Yi'tha push to investigate the city and Nerkith wants the PCs to surrender the darkstone amulet
 3. The PCs head to the mansion in hope of finding a spare and the command codes for the arcane golem
-4. The PCs secure some scrolls from the Arcane Academy while escaping Void Zombies.
-5. The PCs enter the mansion from the 2nd level, through the balcony.
-6. Yitha's HP is at 26 at the end of the session.
+4. Crossing the bridge, the PCs fought Zombies (80xp)
+5. The PCs secure some scrolls from the Arcane Academy while escaping Void Zombies.
+6. The PCs enter the mansion from the 2nd level, through the balcony.
+7. The PCs earned XP for surviving the horde (40xp). Yitha's HP is at 26 at the end of the session.

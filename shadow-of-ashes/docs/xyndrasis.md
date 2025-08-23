@@ -96,7 +96,7 @@ Supplies for the survivors.
 
 **Infection Level**: Low (-2 DC)
 
-## F - Xyndrash Estate  
+## F - Xyndrash Manor  
 
 **Infection Level**: High (+2 DC)
 

@@ -1,0 +1,318 @@
+{
+  "width": 10,
+  "height": 12,
+  "tiles": [
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 420
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 180
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 180
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 420
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 900
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 960
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 300,
+      "y": 960
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 960
+    },
+    {
+      "path": "IA-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 660,
+      "y": 720
+    },
+    {
+      "path": "IA-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 660,
+      "y": 840
+    },
+    {
+      "path": "IA-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 660,
+      "y": 960
+    },
+    {
+      "path": "IA-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 660,
+      "y": 1080
+    },
+    {
+      "path": "A-TRP-Heavy-Arch.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 720
+    },
+    {
+      "path": "A-TRP-HeavyWall-Window.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 120
+    },
+    {
+      "path": "A-TRP-HeavyWall-Window.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 120
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 660
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 660
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 120,
+      "y": 720
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 120,
+      "y": 180
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 420
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 420,
+      "y": 180
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 180
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 960
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 1200
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 660,
+      "y": 1200
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 1200
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 120,
+      "y": 1200
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 120,
+      "y": 660
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 660
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 660
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 120
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 120
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 120,
+      "y": 120
+    },
+    {
+      "path": "IL-Cnr-StoneBar.png",
+      "rotation": 90,
+      "x": 960,
+      "y": 120
+    },
+    {
+      "path": "IL-Cnr-StoneBar.png",
+      "rotation": 180,
+      "x": 960,
+      "y": 1080
+    },
+    {
+      "path": "IA-StoneBar.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 120
+    },
+    {
+      "path": "O-Col-StoneBar.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 120
+    },
+    {
+      "path": "IA-StoneBar.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 1140
+    },
+    {
+      "path": "O-Col-StoneBar.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 1140
+    },
+    {
+      "path": "A-StoneBar.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 480
+    },
+    {
+      "path": "A-StoneBar.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 240
+    },
+    {
+      "path": "A-StoneBar.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 720
+    },
+    {
+      "path": "IA-StoneBar.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 960
+    }
+  ],
+  "props": [
+    {
+      "x": 300,
+      "y": 180,
+      "width": 120,
+      "height": 120,
+      "label": "Drawer"
+    },
+    {
+      "x": 480,
+      "y": 180,
+      "width": 120,
+      "height": 120,
+      "label": "Drawer"
+    },
+    {
+      "x": 180,
+      "y": 180,
+      "width": 120,
+      "height": 240,
+      "label": "Bed"
+    },
+    {
+      "x": 600,
+      "y": 180,
+      "width": 120,
+      "height": 240,
+      "label": "Bed"
+    }
+  ]
+}

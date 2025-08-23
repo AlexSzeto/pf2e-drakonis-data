@@ -4537,6 +4537,31 @@
         "label": "Temple First Floor",
         "tags": []
       }
+    },
+    {
+      "path": "xyndrash-manor-lv2.json",
+      "label": "Xyndrash Manor Lv2",
+      "tags": [],
+      "entry": {
+        "path": "xyndrash-manor-lv2.json",
+        "label": "Xyndrash Manor Lv2",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrash-manor-lv1.json",
+      "label": "Xyndrash Manor Lv1",
+      "tags": [],
+      "entry": {
+        "path": "xyndrash-manor-lv1.json",
+        "label": "Xyndrash Manor Lv1",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrash-manor-b.json",
+      "label": "Xyndrash Manor B",
+      "tags": []
     }
   ],
   "name": "Shadow of Ashes",

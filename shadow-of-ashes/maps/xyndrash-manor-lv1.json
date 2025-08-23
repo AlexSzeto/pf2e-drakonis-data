@@ -1,0 +1,939 @@
+{
+  "width": 24,
+  "height": 22,
+  "tiles": [
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1740
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1980
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1080,
+      "y": 2220
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 2220
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1320,
+      "y": 2220
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 960
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1320,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1860,
+      "y": 900
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1860,
+      "y": 1140
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 900
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 1140
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1020,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1260,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1500,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1740,
+      "y": 660
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1980,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 660
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 900
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 660
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 1440
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 1440
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 1140
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 660
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 660
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1260,
+      "y": 120
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1260,
+      "y": 360
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1500,
+      "y": 120
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1980,
+      "y": 120
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1980,
+      "y": 360
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 240
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 120
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 360
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 480
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 1380
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 1140
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 780
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 1020
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 660
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 120
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2100,
+      "y": 120
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2100,
+      "y": 660
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 90,
+      "x": 2100,
+      "y": 1140
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 90,
+      "x": 2100,
+      "y": 1380
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 1380
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2400,
+      "y": 1380
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 120
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 0,
+      "x": 1500,
+      "y": 600
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 600
+    },
+    {
+      "path": "A-TRP-Wooden-Door-Wall.png",
+      "rotation": 0,
+      "x": 1140,
+      "y": 600
+    },
+    {
+      "path": "IA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1020,
+      "y": 600
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 600
+    },
+    {
+      "path": "A-TRP-HeavyWall-Window.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 1380
+    },
+    {
+      "path": "A-TRP-HeavyWall-Window.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 660
+    },
+    {
+      "path": "A-TRP-HeavyWall-Window.png",
+      "rotation": 90,
+      "x": 2640,
+      "y": 660
+    },
+    {
+      "path": "G-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1560,
+      "y": 2220
+    },
+    {
+      "path": "G-TRP-HeavyWall.png",
+      "rotation": 180,
+      "x": 1020,
+      "y": 2220
+    },
+    {
+      "path": "A-TRP-Iron-Door-Wall.png",
+      "rotation": 0,
+      "x": 1320,
+      "y": 2460
+    },
+    {
+      "path": "A-TRP-Heavy-Arch.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 1680
+    },
+    {
+      "path": "A-TRP-Heavy-Arch.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1680
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1320,
+      "y": 1680
+    },
+    {
+      "path": "A-TRP-Heavy-Arch.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 900
+    },
+    {
+      "path": "A-TRP-Heavy-Arch.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 900
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 960
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 1440
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1800,
+      "y": 1920
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 2160
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1020,
+      "y": 2160
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 1920
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 1440
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 960
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 960
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1020,
+      "y": 900
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1800,
+      "y": 900
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1320,
+      "y": 900
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1860,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2280,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2100,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 1620
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 600,
+      "y": 1620
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 1620
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 1620
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 2640,
+      "y": 1620
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2640,
+      "y": 1380
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 2640,
+      "y": 900
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 2640,
+      "y": 600
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 600
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1740,
+      "y": 600
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1980,
+      "y": 600
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 2160,
+      "y": 600
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 1080
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 600
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 780,
+      "y": 60
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1260,
+      "y": 60
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1740,
+      "y": 60
+    },
+    {
+      "path": "BA-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1920,
+      "y": 60
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 2100,
+      "y": 60
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 60
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 900
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 180,
+      "x": 480,
+      "y": 900
+    },
+    {
+      "path": "EC-TRP-RoughStoneFloor.png",
+      "rotation": 180,
+      "x": 240,
+      "y": 900
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 600
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 1860,
+      "y": 1380
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 900,
+      "y": 1380
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1980,
+      "y": 1380
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 780,
+      "y": 1380
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 1740
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1560,
+      "y": 1200
+    }
+  ],
+  "props": [
+    {
+      "x": 1560,
+      "y": 2220,
+      "width": 240,
+      "height": 240,
+      "label": "Sofa"
+    },
+    {
+      "x": 1080,
+      "y": 2220,
+      "width": 240,
+      "height": 240,
+      "label": "Sofa"
+    },
+    {
+      "x": 1320,
+      "y": 1800,
+      "width": 240,
+      "height": 240,
+      "label": "Nerxalis\\Statue"
+    },
+    {
+      "x": 1440,
+      "y": 1200,
+      "width": 240,
+      "height": 240,
+      "label": "Elegant\\Table"
+    },
+    {
+      "x": 1080,
+      "y": 1200,
+      "width": 60,
+      "height": 240,
+      "label": "Scroll\\Shelf"
+    },
+    {
+      "x": 1080,
+      "y": 1440,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 1080,
+      "y": 1080,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 1560,
+      "y": 1440,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 1440,
+      "y": 1080,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 2400,
+      "y": 1440,
+      "width": 240,
+      "height": 180,
+      "label": "Boxes + Chest"
+    },
+    {
+      "x": 2280,
+      "y": 660,
+      "width": 240,
+      "height": 240,
+      "label": "Elegant\\Bed"
+    },
+    {
+      "x": 2520,
+      "y": 660,
+      "width": 120,
+      "height": 120,
+      "label": "Closet"
+    },
+    {
+      "x": 2580,
+      "y": 900,
+      "width": 60,
+      "height": 240,
+      "label": "Alchem"
+    },
+    {
+      "x": 2580,
+      "y": 1140,
+      "width": 60,
+      "height": 240,
+      "label": "Bookshelf"
+    },
+    {
+      "x": 2280,
+      "y": 1320,
+      "width": 240,
+      "height": 60,
+      "label": "Bookshelf"
+    },
+    {
+      "x": 2340,
+      "y": 1080,
+      "width": 180,
+      "height": 180,
+      "label": "Table\\w/Books"
+    },
+    {
+      "x": 2280,
+      "y": 960,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 2220,
+      "y": 1200,
+      "width": 120,
+      "height": 120,
+      "label": "Books"
+    },
+    {
+      "x": 1500,
+      "y": 120,
+      "width": 300,
+      "height": 120,
+      "label": "Wine Barrels"
+    },
+    {
+      "x": 1800,
+      "y": 120,
+      "width": 120,
+      "height": 60,
+      "label": "Wine\\Shelf"
+    },
+    {
+      "x": 1920,
+      "y": 120,
+      "width": 180,
+      "height": 60,
+      "label": "Wine\\Shelf"
+    },
+    {
+      "x": 1680,
+      "y": 420,
+      "width": 240,
+      "height": 180,
+      "label": "Crates + Barrels"
+    },
+    {
+      "x": 1920,
+      "y": 360,
+      "width": 180,
+      "height": 240,
+      "label": "Crates + Barrels"
+    },
+    {
+      "x": 1140,
+      "y": 120,
+      "width": 240,
+      "height": 120,
+      "label": "Kitchen"
+    },
+    {
+      "x": 1320,
+      "y": 360,
+      "width": 60,
+      "height": 240,
+      "label": "Fireplace"
+    },
+    {
+      "x": 780,
+      "y": 120,
+      "width": 120,
+      "height": 60,
+      "label": "Dish\\Shelf"
+    },
+    {
+      "x": 900,
+      "y": 120,
+      "width": 240,
+      "height": 120,
+      "label": "Table"
+    },
+    {
+      "x": 780,
+      "y": 360,
+      "width": 300,
+      "height": 240,
+      "label": "Crates + Barrels"
+    },
+    {
+      "x": 240,
+      "y": 660,
+      "width": 120,
+      "height": 240,
+      "label": "Bed"
+    },
+    {
+      "x": 240,
+      "y": 900,
+      "width": 120,
+      "height": 180,
+      "label": "Closet"
+    },
+    {
+      "x": 360,
+      "y": 660,
+      "width": 120,
+      "height": 60,
+      "label": "Bookshelf"
+    },
+    {
+      "x": 600,
+      "y": 660,
+      "width": 120,
+      "height": 240,
+      "label": "Desk"
+    },
+    {
+      "x": 480,
+      "y": 720,
+      "width": 120,
+      "height": 120,
+      "label": "Chair"
+    },
+    {
+      "x": 360,
+      "y": 1140,
+      "width": 120,
+      "height": 60,
+      "label": "Cabinet"
+    },
+    {
+      "x": 480,
+      "y": 1140,
+      "width": 120,
+      "height": 60,
+      "label": "Cabinet"
+    },
+    {
+      "x": 240,
+      "y": 1200,
+      "width": 60,
+      "height": 120,
+      "label": "Weapon\\Shelf"
+    },
+    {
+      "x": 600,
+      "y": 1380,
+      "width": 120,
+      "height": 240,
+      "label": "Bed"
+    }
+  ]
+}

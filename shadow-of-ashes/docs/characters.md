@@ -1,3 +1,12 @@
+### Omiros
+![portrait-omiros.jpg](portrait-omiros.jpg)
+Veteran tactician from the Great Dragon War. Committed many warcrimes in the name of Solaris.
+
+After the war, only consulted with the primordial voice twice - one to create Typha, one to cast the 
+Sense Memory spell for tracking her down.
+
+Is dying - can feel the body literally falling apart.
+
 ### The Scarred Man
 The PCs know him as appearing unremarkable but threatening, with a scar running down his face down his body.
 

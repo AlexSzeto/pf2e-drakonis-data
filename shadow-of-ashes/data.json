@@ -3884,7 +3884,12 @@
     },
     {
       "label": "Location - Faewind Forest",
-      "path": "faewind-forest.md"
+      "path": "faewind-forest.md",
+      "entry": {
+        "path": "faewind-forest.md",
+        "label": "FAEWIND FOREST.MD",
+        "tags": []
+      }
     },
     {
       "label": "World Building - Drakonis",
@@ -3947,6 +3952,28 @@
       "entry": {
         "path": "xyndrash-manor.md",
         "label": "XYNDRASH MANOR.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "faewind-wilds.md",
+      "label": "Faewind Wilds",
+      "tags": [
+        "docs"
+      ],
+      "entry": {
+        "path": "faewind-wilds.md",
+        "label": "FAEWIND WILDS.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "uruzad.md",
+      "label": "URUZAD.MD",
+      "tags": [],
+      "entry": {
+        "path": "uruzad.md",
+        "label": "URUZAD.MD",
         "tags": []
       }
     }
@@ -4547,6 +4574,76 @@
       "label": "Xyndrash Manor Lv2",
       "tags": [
         "battlemap"
+      ]
+    },
+    {
+      "path": "portrait-omiros.jpg",
+      "label": "Omiros",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-sands-edge.jpg",
+      "label": "Sands Edge",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-cattail-grove.jpg",
+      "label": "Location Cattail Grove",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-void-crawler-swarm.jpg",
+      "label": "Void Crawler Swarm",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-faewind-forest.jpg",
+      "label": "Faewind Forest",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-elven-farstriders.jpg",
+      "label": "Elven Farstriders",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-churmok.jpg",
+      "label": "Churmok",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-cottonwood.jpg",
+      "label": "Cottonwood",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-tunnels.jpg",
+      "label": "Xyndrasis Tunnels",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-gate.webp",
+      "label": "Xyndrasis Gate",
+      "tags": [
+        "location"
       ]
     }
   ],

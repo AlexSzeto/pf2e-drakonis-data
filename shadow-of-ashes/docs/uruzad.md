@@ -1,0 +1,1 @@
+![map-uruzad.jpg](map-uruzad.jpg)

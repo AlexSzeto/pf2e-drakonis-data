@@ -142,3 +142,20 @@ Who is OPFOR?
 - OPFOR is still Mak Gorim
 
 Why must Stormhaven be destroyed?
+
+# Aelindra, The Dragon Goddess of Wind
+Category	Factoid
+Domain	Wind/Air, Creativity, Freedom.
+Allegiance	The Chaos/Darkness Faction (patron of the slain Dragon God Nerxalis).
+Status	Fled to the outskirts of the Empire to organize resistance alongside Pyra.
+Form of Resistance	Secretly operates as a traveling bard (in disguise). Her purpose is to inspire hope, free thought, and the practice of wild magic in the populace.
+Relationship to Pyra	Pyra (Goddess of Fire/Impulsive Desires) does not get along with Aelindra, finding her methods too weak. Pyra's resistance through terror and eldritch abominations complicates Aelindra's efforts.
+Immortal Status	Like all Dragon Gods, Aelindra is unknowingly immortal and will resurrect if slain, a fact currently unknown even to the gods.
+
+# The Order of the Silver Feather
+Category	Factoid
+Creator	Aelindra, formed as her most profound act of creation since the rise of the Empire.
+Membership	Individuals personally recruited by Aelindra for their strong moral character, free thought, creativity, and will to save the innocent. Members include adventurers, artists, and spies.
+Purpose	To act as the benevolent hands of the resistance, serving the greater good by protecting the enslaved and oppressed, and fighting the rigid, fact-driven dogma of the Empire.
+Symbol	A Silver Feather Pin, worn by all members.
+Powers of the Pin	Imbued with Aelindra's wind and chaos magic, the pin grants three main abilities: 1. Telepathic Whispers (instant, untraceable long-distance communication); 2. Momentary Inspiration (a flash of creative insight or language understanding in crisis); and 3. Untraceable Passage (momentarily makes the wearer undetectable by physical surveillance).

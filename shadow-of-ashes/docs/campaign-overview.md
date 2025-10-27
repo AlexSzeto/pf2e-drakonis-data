@@ -20,13 +20,14 @@ Malkavians -> Felscribed
 
 # The Dragon Gods of Drakonis
 
-Solaris  
-Xovina  
-Tharudain  
+Solaris - Light  
+Xovina - Water  
 
-Nerxalis  
-Pyra  
-Aelindra  
+Tharudain - Earth  
+
+Nerxalis - Darkness  
+Pyra - Fire  
+Aelindra - Air  
 
 # Highmountain Dwarf Clans (Serving Tharudain Directly):
 - Innovator
@@ -35,6 +36,25 @@ Aelindra
 - Preserver
 
 # Big picture events
+
+## The Great War
+Lasts roughly 1000 years
+
+Avian race - skirmishers
+Ashlings - archers 
+Sporeling Forests - thick spore fog, think Zangamarsh
+Fungal Giants - mounts for calvary, grows fast
+The biggest ones become siege breakers - opening up paths for warriors to go up battlements
+
+Ashling war tactics - bring in siege breaking spore giants,
+soften breachhead with concentrated nightbloom clouds, 
+breach and hold with melee fighters, regular army can come in through the opening
+
+Moondusting is the tactic of covering an area with spores.
+The armies of light call it blight bombing - hence the name.
+
+
+Eidran core - is somewhere in the body, can travel back home.
 
 ## Pre story
 Light and Dark war, ashlings lost, establishing the Age of the Eternal Sun  

@@ -3843,6 +3843,119 @@
         "Humanoid"
       ],
       "type": "Fighter 3"
+    },
+    {
+      "name": "Iloth the Shepherd",
+      "type": "Creature 5",
+      "traits": [
+        "Medium",
+        "Elf",
+        "Cavern Elf",
+        "Undead"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+15"
+        },
+        {
+          "name": "Skills",
+          "text": "Religion +12, Diplomacy +10, Arcana +9, Society +9, Acrobatics +2",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+1",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "+3"
+        },
+        {
+          "name": "Int",
+          "text": "+2"
+        },
+        {
+          "name": "Wis",
+          "text": "+4"
+        },
+        {
+          "name": "Cha",
+          "text": "+1"
+        },
+        {
+          "name": "Items",
+          "text": "Priest Robes, Religious Symbol, ",
+          "newline": true
+        },
+        {
+          "name": "AC",
+          "text": "21",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+12"
+        },
+        {
+          "name": "Ref",
+          "text": "+9"
+        },
+        {
+          "name": "Will",
+          "text": "+9"
+        },
+        {
+          "name": "HP",
+          "text": "94",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "Poison, Death Effects, Bleed, Disease"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "Vitality 5, Slashing 5"
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Conscience",
+          "newline": true,
+          "text": "At the start of every 3rd turn, Iloth regains his normal memories, makes no aggressive action, and spends the turn warning the party to flee."
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "Bite +13 2d6+1 P plus Swarm Bite",
+          "newline": true
+        },
+        {
+          "name": "Spells",
+          "text": "DC 21; **2nd** Darkness, Sudden Blight; **1st** Enfeeble, Fear, Harm x4; **Cantrips** Shield, Guidance, Void Warp",
+          "newline": true
+        },
+        {
+          "name": "Feast",
+          "action": "reaction",
+          "text": "consume a void worm swarm, healing 5hp",
+          "newline": true
+        },
+        {
+          "name": "Swarm Bite",
+          "newline": true,
+          "text": "Make DC 21 basic Reflex save. On fail, gain 1 stage of Void Rot."
+        }
+      ]
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",

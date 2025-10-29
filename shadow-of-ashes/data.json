@@ -170,6 +170,22 @@
         "bgm",
         "looping"
       ]
+    },
+    {
+      "path": "xyndrasis-wakes.mp3",
+      "label": "Xyndrasis Wakes",
+      "tags": [
+        "bgm",
+        "looping"
+      ]
+    },
+    {
+      "path": "renu-first-reckoning.mp3",
+      "label": "Renu: First Reckoning",
+      "tags": [
+        "bgm",
+        "looping"
+      ]
     }
   ],
   "cards": [
@@ -4755,6 +4771,13 @@
     {
       "path": "location-xyndrasis-gate.webp",
       "label": "Xyndrasis Gate",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-empowered.jpg",
+      "label": "Empowered Temple",
       "tags": [
         "location"
       ]

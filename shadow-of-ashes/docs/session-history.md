@@ -111,3 +111,15 @@ and urge them to save the initiates working on excavation.
 5. The PCs secure some scrolls from the Arcane Academy while escaping Void Zombies.
 6. The PCs enter the mansion from the 2nd level, through the balcony.
 7. The PCs earned XP for surviving the horde (40xp). Yitha's HP is at 26 at the end of the session.
+
+(Session 8 Starts)
+1. The PCs explore the mansion and defeats the zealot (80xp)
+2. The PCs discovery the cellar lab. They rescue Zero and obtain the deactivation code for the arcane guardian.
+3. The PCs visit the vault, deactivating the guardian and loot the vault
+
+(Session 9 Starts)
+1. The PCs return to the survivor's camp and meets Hatherian
+2. The PCs left Zero at the bridge that got torn apart when the Sheperd attacks
+3. The temple explodes in a wave of magical explosion, and the ashlings "unify" singing moonwake together.
+4. The PCs defeated the Shepard without gaining additional info
+5. The PCs convince Yitha to confront her father in the temple.

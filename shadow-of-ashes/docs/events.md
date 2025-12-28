@@ -40,6 +40,13 @@ If easier/harder, adjust by +/-2, then +/-5
 | +3  | 24xp   | 120xp   |
 | +4  | 30xp   | 150xp   |
 
+# Xyndrasis Awakens
+
+## Nerkith begins to rally people to pack up
+## Temple explosion, zombie grunts tune into moonwake
+## All is quiet for a few hours
+## Bridge invasion
+
 # Stormhaven In Protest
 
 ## Edwin is meeting with Burt

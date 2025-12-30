@@ -103,6 +103,7 @@ and urge them to save the initiates working on excavation.
 3. The PCs crossed the overlook, sees Xyndrasis from above.
 4. The PCs killed 2 infected beetles and rescued Hethor.
 
+# Xyndrasis Slumbers (3rd Firefall)
 (Session 7 Starts)
 1. The PCs are led by Hethor to the survivor's camp. They collected food (Nightbloom as an excuse)
 2. Yi'tha push to investigate the city and Nerkith wants the PCs to surrender the darkstone amulet
@@ -117,6 +118,7 @@ and urge them to save the initiates working on excavation.
 2. The PCs discovery the cellar lab. They rescue Zero and obtain the deactivation code for the arcane guardian.
 3. The PCs visit the vault, deactivating the guardian and loot the vault
 
+# Xyndrasis Awakens (4th Firefall)
 (Session 9 Starts)
 1. The PCs return to the survivor's camp and meets Hatherian
 2. The PCs left Zero at the bridge that got torn apart when the Sheperd attacks

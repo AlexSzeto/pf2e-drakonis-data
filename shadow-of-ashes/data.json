@@ -4105,6 +4105,25 @@
         "label": "URUZAD.MD",
         "tags": []
       }
+    },
+    {
+      "path": "stormhaven-revolt-notes.md",
+      "label": "Stormhaven Revolt Notes",
+      "tags": [
+        "docs"
+      ],
+      "entry": {
+        "path": "stormhaven-revolt-notes.md",
+        "label": "STORMHAVEN REVOLT NOTES.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "dm-cheatsheet.md",
+      "label": "Dm Cheatsheet",
+      "tags": [
+        "docs"
+      ]
     }
   ],
   "id": "shadow-of-ashes",

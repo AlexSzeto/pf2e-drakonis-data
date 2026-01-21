@@ -4382,20 +4382,6 @@
       ]
     },
     {
-      "label": "Keroc Outer",
-      "path": "battlemap-keroc-outer.jpg",
-      "tags": [
-        "battlemap"
-      ]
-    },
-    {
-      "label": "Keroc Inner",
-      "path": "battlemap-keroc-inner.jpg",
-      "tags": [
-        "battlemap"
-      ]
-    },
-    {
       "label": "Preserver Ceremonial Axe",
       "path": "item-preserver-ceremonial-axe.jpeg",
       "tags": [
@@ -4442,20 +4428,6 @@
       "path": "portrait-lucita.jpeg",
       "tags": [
         "portrait"
-      ]
-    },
-    {
-      "label": "Karoc Temple",
-      "path": "battlemap-karoc-temple.jpeg",
-      "tags": [
-        "battlemap"
-      ]
-    },
-    {
-      "label": "Keroc Town Center",
-      "path": "battlemap-keroc-town-center.jpeg",
-      "tags": [
-        "battlemap"
       ]
     },
     {
@@ -4799,6 +4771,41 @@
       "label": "Empowered Temple",
       "tags": [
         "location"
+      ]
+    },
+    {
+      "path": "portrait-xyndrasis-truthseeker.png",
+      "label": "Tighis",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-temple-secret-entrance.jpg",
+      "label": "Xyndrasis Temple Secret Entrance",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-gravelk.png",
+      "label": "Gravelk",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-gydra-and-xesom.jpg",
+      "label": "Gydra and Xesom",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-loribelle.jpg",
+      "label": "Loribelle",
+      "tags": [
+        "portrait"
       ]
     }
   ],

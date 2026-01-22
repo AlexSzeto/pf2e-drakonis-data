@@ -4859,6 +4859,16 @@
       "path": "xyndrash-manor-b.json",
       "label": "Xyndrash Manor B",
       "tags": []
+    },
+    {
+      "path": "xyndrasis-secret-path.json",
+      "label": "Xyndrasis Secret Path",
+      "tags": [],
+      "entry": {
+        "path": "xyndrasis-secret-path.json",
+        "label": "Xyndrasis Secret Path",
+        "tags": []
+      }
     }
   ],
   "name": "Shadow of Ashes",

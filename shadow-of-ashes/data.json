@@ -4807,6 +4807,27 @@
       "tags": [
         "portrait"
       ]
+    },
+    {
+      "path": "location-xyndrasis-hidden-bunker.jpg",
+      "label": "Xyndrasis Hidden Bunker",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-artifact-viewing-chamber.jpg",
+      "label": "Artifact Viewing Chamber",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-tear-of-xovina.jpg",
+      "label": "Tear of Xovina",
+      "tags": [
+        "portrait"
+      ]
     }
   ],
   "maps": [

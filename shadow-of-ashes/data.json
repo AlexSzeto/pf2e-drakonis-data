@@ -3972,6 +3972,414 @@
           "text": "Make DC 21 basic Reflex save. On fail, gain 1 stage of Void Rot."
         }
       ]
+    },
+    {
+      "name": "Grevik",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+5; darkvision"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Acrobatics +8, Athletics +5, Diplomacy +2, Fortitude +6, Intimidation +4, Lore: Tanning +5, Nature +3, Perception +5, Reflex +8, Society +5, Stealth +6, Survival +3, Will +5"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+3"
+        },
+        {
+          "name": "Dex",
+          "text": "+4"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "+3"
+        },
+        {
+          "name": "Wis",
+          "text": "+1"
+        },
+        {
+          "name": "Cha",
+          "text": "+0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "Breastplate, +1 Longbow, Dagger (5), 50gp"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "22"
+        },
+        {
+          "name": "Fort",
+          "text": "+6"
+        },
+        {
+          "name": "Ref",
+          "text": "+8"
+        },
+        {
+          "name": "Will",
+          "text": "+5"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "66"
+        },
+        {
+          "name": "Point Blank Stance",
+          "newline": true,
+          "text": "[single] Remove -2 volley penalty"
+        },
+        {
+          "name": "Assisting Shot",
+          "newline": true,
+          "text": "[single] Strike ranged. On hit, next other creature to attack target before your next turn gains a +1 circumstance bonus, or a +2 on crit."
+        },
+        {
+          "name": "Double Shot",
+          "newline": true,
+          "text": "[double] Take 2 shots at -2 penalty. Counts as 2 attacks after."
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "40"
+        },
+        {
+          "action": "single",
+          "name": "Ranged",
+          "newline": true,
+          "text": "Longbow +16 1d8 Piercing (volley 30ft, deadly d10)"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Dagger +13 1d4+3 Piercing (thrown 10ft)"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Elf"
+      ],
+      "type": "Fighter 5"
+    },
+    {
+      "name": "Zombie Brute",
+      "type": "Creature 2",
+      "traits": [
+        "Medium",
+        "Mindless",
+        "Undead",
+        "Unholy",
+        "Zombie"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+4; darkvision"
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +11",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+5",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-3"
+        },
+        {
+          "name": "Con",
+          "text": "+4"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-2"
+        },
+        {
+          "name": "AC",
+          "text": "15",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+10"
+        },
+        {
+          "name": "Ref",
+          "text": "+3"
+        },
+        {
+          "name": "Will",
+          "text": "+6"
+        },
+        {
+          "name": "HP",
+          "text": "39",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, mental, paralyzed, poison, unconscious"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "Slashing 10, Vitality 10, Fire 5"
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "fist +11 1d12+5 B + Grab",
+          "newline": true
+        },
+        {
+          "name": "Grab",
+          "text": "[single] *Requirements* successful grab Strike *Effect* instantly initiates grapple (Athletics vs Fort DC, success means restrained)",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Void Wormthrower",
+      "type": "Creature 2",
+      "traits": [
+        "Medium",
+        "Mindless",
+        "Undead",
+        "Unholy",
+        "Zombie"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+11; lifesense 10ft"
+        },
+        {
+          "name": "Skills",
+          "text": "Acrobatics +7",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+2",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+4"
+        },
+        {
+          "name": "Con",
+          "text": "+1"
+        },
+        {
+          "name": "Int",
+          "text": "0"
+        },
+        {
+          "name": "Wis",
+          "text": "-3"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "AC",
+          "text": "17",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+4"
+        },
+        {
+          "name": "Ref",
+          "text": "+10"
+        },
+        {
+          "name": "Will",
+          "text": "+5"
+        },
+        {
+          "name": "HP",
+          "text": "30",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, mental, paralyzed, poison, unconscious"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "Slashing 10, Vitality 10, Fire 5"
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "fist +9 1d8+4 B",
+          "newline": true
+        },
+        {
+          "name": "Ranged",
+          "action": "single",
+          "text": "worm +11 1d12+4 P + spawn worm",
+          "newline": true
+        },
+        {
+          "name": "Spawn Worm",
+          "text": "On hit or miss, always spawn a Crawler Swarm on target",
+          "newline": true,
+          "hr": true
+        },
+        {
+          "name": "Grab Worm",
+          "text": "[single] Grabs a worm from a Crawler Swarm within 5ft, destroys swarm",
+          "newline": true
+        },
+        {
+          "name": "Call Worm",
+          "text": "[single] Summons a Crawler Swarm 10ft away in a random direction",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Animated Armor",
+      "type": "Creature 2",
+      "traits": [
+        "Medium",
+        "Construct",
+        "Mindless"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+6; darkvision"
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +9",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+3",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-3"
+        },
+        {
+          "name": "Con",
+          "text": "+4"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "Items",
+          "text": "greatsword, ",
+          "newline": true
+        },
+        {
+          "name": "AC",
+          "text": "17 (13 when broken)",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+10"
+        },
+        {
+          "name": "Ref",
+          "text": "+3"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "text": "20",
+          "newline": true
+        },
+        {
+          "name": "Hardness",
+          "text": "9"
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, diseased, doom, drained, fatigue, healing, mental, non-lethal, paralyze, poison, sicken, spirit, unconscious, vitality, void"
+        },
+        {
+          "name": "Speed",
+          "text": "20",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "greatsword +10 1d12+4 S",
+          "newline": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "gauntlet +9 1d6+4 B",
+          "newline": true
+        },
+        {
+          "name": "Construct Armor",
+          "text": "Has hardness; becomes broken when it takes crit hit or loses half health",
+          "newline": true
+        }
+      ]
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -4828,6 +5236,20 @@
       "tags": [
         "portrait"
       ]
+    },
+    {
+      "path": "xyndrasis-secret-path.jpeg",
+      "label": "Xyndrasis Secret Path",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "xyndrasis-temple-ground.jpeg",
+      "label": "Xyndrasis Temple Ground",
+      "tags": [
+        "battlemap"
+      ]
     }
   ],
   "maps": [
@@ -4888,6 +5310,16 @@
       "entry": {
         "path": "xyndrasis-secret-path.json",
         "label": "Xyndrasis Secret Path",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrasis-temple-ground.json",
+      "label": "Xyndrasis Temple Ground",
+      "tags": [],
+      "entry": {
+        "path": "xyndrasis-temple-ground.json",
+        "label": "Xyndrasis Temple Ground",
         "tags": []
       }
     }

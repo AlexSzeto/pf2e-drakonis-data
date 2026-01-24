@@ -1,0 +1,382 @@
+{
+  "width": 40,
+  "height": 40,
+  "tiles": [
+    {
+      "path": "T-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 720
+    },
+    {
+      "path": "T-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 900,
+      "y": 720
+    },
+    {
+      "path": "T-TRP-RoughStoneFloor.png",
+      "rotation": 270,
+      "x": 420,
+      "y": 1200
+    },
+    {
+      "path": "T-TRP-RoughStoneFloor.png",
+      "rotation": 180,
+      "x": 900,
+      "y": 1200
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 240
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 240
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 720
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 1920
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 180
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 300
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 1140,
+      "y": 180
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 0,
+      "x": 1140,
+      "y": 300
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 660,
+      "y": 180
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 180
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 660,
+      "y": 420
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 780,
+      "y": 420
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 900,
+      "y": 420
+    },
+    {
+      "path": "S-Full-Schist-Wood-Stair.png",
+      "rotation": 90,
+      "x": 1020,
+      "y": 420
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 660
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 660
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 420,
+      "y": 420
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1320,
+      "y": 420
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 960
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 300,
+      "y": 960
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 1680
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 1680
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 1320
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 1680
+    },
+    {
+      "path": "EN-TRP-RoughStoneFloor.png",
+      "rotation": 270,
+      "x": 1380,
+      "y": 1680
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 300,
+      "y": 1320
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 300,
+      "y": 1680
+    },
+    {
+      "path": "EN-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 1680
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 1440
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 1440
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 960
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 180,
+      "y": 1200
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 300,
+      "y": 1080
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 960
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 1200
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1380,
+      "y": 1080
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1620,
+      "y": 240
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 120,
+      "y": 240
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 180
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 420,
+      "y": 120
+    },
+    {
+      "path": "Q-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 900,
+      "y": 120
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1620,
+      "y": 180
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 1380,
+      "y": 120
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 360,
+      "y": 120
+    },
+    {
+      "path": "Col-L-TRP-Heavy.png",
+      "rotation": 0,
+      "x": 120,
+      "y": 180
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 420
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 540
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 420
+    },
+    {
+      "path": "I-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 540
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 1140,
+      "y": 420
+    },
+    {
+      "path": "A-TRP-HeavyWall.png",
+      "rotation": 90,
+      "x": 600,
+      "y": 420
+    }
+  ],
+  "props": [
+    {
+      "x": 540,
+      "y": 1680,
+      "width": 240,
+      "height": 240,
+      "label": "Nerxalis"
+    },
+    {
+      "x": 1020,
+      "y": 1680,
+      "width": 240,
+      "height": 240,
+      "label": "Xovina"
+    }
+  ]
+}

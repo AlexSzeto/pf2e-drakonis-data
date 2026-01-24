@@ -53,6 +53,13 @@
       "tags": [
         "ambience"
       ]
+    },
+    {
+      "path": "army-of-zombies.mp3",
+      "label": "Army Of Zombies",
+      "tags": [
+        "looping"
+      ]
     }
   ],
   "bgms": [
@@ -184,6 +191,20 @@
       "label": "Renu: First Reckoning",
       "tags": [
         "bgm",
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-desecrated-damnation.mp3",
+      "label": "Desecrated Damnation",
+      "tags": [
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-a-waltz-of-regrets.mp3",
+      "label": "A Waltz Of Regrets",
+      "tags": [
         "looping"
       ]
     }

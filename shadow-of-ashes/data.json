@@ -5271,6 +5271,27 @@
       "tags": [
         "battlemap"
       ]
+    },
+    {
+      "path": "xyndrasis-temple-viewing-chamber.jpeg",
+      "label": "Xyndrasis Temple Viewing Chamber",
+      "tags": [
+        "battlemap"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-outpost-interior.jpg",
+      "label": "Xyndrasis Outpost Interior",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-outpost-interior.webp",
+      "label": "Xyndrasis Outpost Interior",
+      "tags": [
+        "location"
+      ]
     }
   ],
   "maps": [
@@ -5341,6 +5362,16 @@
       "entry": {
         "path": "xyndrasis-temple-ground.json",
         "label": "Xyndrasis Temple Ground",
+        "tags": []
+      }
+    },
+    {
+      "path": "xyndrasis-temple-viewing-chamber.json",
+      "label": "Xyndrasis Temple Viewing Chamber",
+      "tags": [],
+      "entry": {
+        "path": "xyndrasis-temple-viewing-chamber.json",
+        "label": "Xyndrasis Temple Viewing Chamber",
         "tags": []
       }
     }

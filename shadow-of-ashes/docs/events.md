@@ -158,7 +158,8 @@ DC 20 to spot the mechanisms,
 DC 25 to spot the pit trap opening, DC 22 disable device.
 The mechanism is required to open the secret door to the viewing chamber.
 
-## Viewing Chambers
+![xyndrasis-temple-viewing-chamber.jpeg](xyndrasis-temple-viewing-chamber.jpeg)
+# Viewing Chambers
 Illusion of the tears in the room center floating. floor crack
 leaks unholy energy from below, causing 1d4 void damage to anyone
 staying near the pedestal.

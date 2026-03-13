@@ -207,6 +207,27 @@
       "tags": [
         "looping"
       ]
+    },
+    {
+      "path": "bgm-voided-tears-echoes.mp3",
+      "label": "Voided Tears (Echoes)",
+      "tags": [
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-voided-tears-desecration.mp3",
+      "label": "Voided Tears (Desecration)",
+      "tags": [
+        "looping"
+      ]
+    },
+    {
+      "path": "bgm-desert-bounty.mp3",
+      "label": "Desert's Bounty",
+      "tags": [
+        "looping"
+      ]
     }
   ],
   "cards": [
@@ -5289,6 +5310,48 @@
     {
       "path": "location-xyndrasis-outpost-interior.webp",
       "label": "Xyndrasis Outpost Interior",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-touman.jpg",
+      "label": "Touman",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-yukha.jpg",
+      "label": "Yukha",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-nerxalis.jpg",
+      "label": "Nerxalis",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-xovina.jpg",
+      "label": "Xovina",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "portrait-prince-renu.jpg",
+      "label": "Prince Renu",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-viewing-chamber,-corrupted.jpg",
+      "label": "Viewing Chamber, Corrupted",
       "tags": [
         "location"
       ]

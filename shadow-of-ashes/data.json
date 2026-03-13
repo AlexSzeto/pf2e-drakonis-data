@@ -5437,6 +5437,16 @@
         "label": "Xyndrasis Temple Viewing Chamber",
         "tags": []
       }
+    },
+    {
+      "path": "temple-second-floor.json",
+      "label": "Temple Second Floor",
+      "tags": [],
+      "entry": {
+        "path": "temple-second-floor.json",
+        "label": "Temple Second Floor",
+        "tags": []
+      }
     }
   ],
   "name": "Shadow of Ashes",

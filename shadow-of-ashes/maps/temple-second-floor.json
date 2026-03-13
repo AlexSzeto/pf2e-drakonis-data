@@ -1,0 +1,301 @@
+{
+  "width": 40,
+  "height": 40,
+  "tiles": [
+    {
+      "path": "V-TRP-RoughStoneFloor.png",
+      "rotation": 180,
+      "x": 480,
+      "y": 120
+    },
+    {
+      "path": "V-TRP-RoughStoneFloor.png",
+      "rotation": 270,
+      "x": 1200,
+      "y": 120
+    },
+    {
+      "path": "V-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 480,
+      "y": 840
+    },
+    {
+      "path": "V-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 480,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1440,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 120
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 360
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1380
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 270,
+      "x": 1200,
+      "y": 1680
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 180,
+      "x": 720,
+      "y": 1680
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 2160
+    },
+    {
+      "path": "F-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 720,
+      "y": 2160
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1680
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 2160
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 1920
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 720,
+      "y": 1920
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 1500,
+      "y": 1920
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 90,
+      "x": 540,
+      "y": 1920
+    },
+    {
+      "path": "S-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 960,
+      "y": 2460
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1680,
+      "y": 1800
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1680,
+      "y": 2040
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 1800
+    },
+    {
+      "path": "E-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 240,
+      "y": 2040
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 600,
+      "y": 2640
+    },
+    {
+      "path": "U-TRP-RoughStoneFloor.png",
+      "rotation": 0,
+      "x": 1080,
+      "y": 2640
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 1980,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 1980,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2220,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 1740,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2700,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 840
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2220,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 1980,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2700,
+      "y": 1080
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 360
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2220,
+      "y": 360
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2220,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 2700,
+      "y": 600
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 3480,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-Mine-Floor.png",
+      "rotation": 0,
+      "x": 3240,
+      "y": 900
+    }
+  ],
+  "props": []
+}

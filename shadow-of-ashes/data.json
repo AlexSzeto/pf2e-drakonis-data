@@ -3674,6 +3674,110 @@
       ]
     },
     {
+      "name": "Purple Slime",
+      "type": "Creature 5",
+      "traits": [
+        "Large",
+        "Mindless",
+        "Ooze"
+      ],
+      "stats": [
+        {
+          "name": "Base Creature",
+          "text": "Tomb Jelly"
+        },
+        {
+          "name": "Perception",
+          "text": "+7; Lifesense 20 ft",
+          "newline": true
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +13",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+6",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-5"
+        },
+        {
+          "name": "Con",
+          "text": "+6"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "AC",
+          "text": "12",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+15"
+        },
+        {
+          "name": "Ref",
+          "text": "+4"
+        },
+        {
+          "name": "Will",
+          "text": "+7"
+        },
+        {
+          "name": "HP",
+          "text": "150",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "acid, bleed, critical hits, mental, precision, slashing, unconscious, visual, void"
+        },
+        {
+          "name": "Speed",
+          "text": "15 (climb 10)",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "pseudopod +15 1d8+6 B, 1d6 acid",
+          "newline": true
+        },
+        {
+          "name": "Engulf",
+          "action": "turn",
+          "text": "Reflex DC 18, 4d6 acid, Escape DC 18, Rupture 10",
+          "newline": true
+        },
+        {
+          "name": "Split",
+          "text": "On rupture [reaction] or with [single], splits into 4 smaller slimes with 1/4 the original HP.",
+          "newline": true
+        },
+        {
+          "name": "Reform",
+          "action": "reaction",
+          "text": "When 3 fragments or more are next to each other, they can spend [reaction] to reform its large body.",
+          "newline": true
+        }
+      ]
+    },
+    {
       "name": "Void Zombie",
       "type": "Creature 1",
       "traits": [
@@ -4016,111 +4120,8 @@
       ]
     },
     {
-      "name": "Grevik",
-      "stats": [
-        {
-          "name": "Perception",
-          "text": "+5; darkvision"
-        },
-        {
-          "name": "Skills",
-          "newline": true,
-          "text": "Acrobatics +8, Athletics +5, Diplomacy +2, Fortitude +6, Intimidation +4, Lore: Tanning +5, Nature +3, Perception +5, Reflex +8, Society +5, Stealth +6, Survival +3, Will +5"
-        },
-        {
-          "name": "Str",
-          "newline": true,
-          "text": "+3"
-        },
-        {
-          "name": "Dex",
-          "text": "+4"
-        },
-        {
-          "name": "Con",
-          "text": "+2"
-        },
-        {
-          "name": "Int",
-          "text": "+3"
-        },
-        {
-          "name": "Wis",
-          "text": "+1"
-        },
-        {
-          "name": "Cha",
-          "text": "+0"
-        },
-        {
-          "name": "Items",
-          "newline": true,
-          "text": "Breastplate, +1 Longbow, Dagger (5), 50gp"
-        },
-        {
-          "hr": true,
-          "name": "AC",
-          "text": "22"
-        },
-        {
-          "name": "Fort",
-          "text": "+6"
-        },
-        {
-          "name": "Ref",
-          "text": "+8"
-        },
-        {
-          "name": "Will",
-          "text": "+5"
-        },
-        {
-          "name": "HP",
-          "newline": true,
-          "text": "66"
-        },
-        {
-          "name": "Point Blank Stance",
-          "newline": true,
-          "text": "[single] Remove -2 volley penalty"
-        },
-        {
-          "name": "Assisting Shot",
-          "newline": true,
-          "text": "[single] Strike ranged. On hit, next other creature to attack target before your next turn gains a +1 circumstance bonus, or a +2 on crit."
-        },
-        {
-          "name": "Double Shot",
-          "newline": true,
-          "text": "[double] Take 2 shots at -2 penalty. Counts as 2 attacks after."
-        },
-        {
-          "hr": true,
-          "name": "Speed",
-          "text": "40"
-        },
-        {
-          "action": "single",
-          "name": "Ranged",
-          "newline": true,
-          "text": "Longbow +16 1d8 Piercing (volley 30ft, deadly d10)"
-        },
-        {
-          "action": "single",
-          "name": "Melee",
-          "newline": true,
-          "text": "Dagger +13 1d4+3 Piercing (thrown 10ft)"
-        }
-      ],
-      "traits": [
-        "Medium",
-        "Elf"
-      ],
-      "type": "Fighter 5"
-    },
-    {
       "name": "Zombie Brute",
-      "type": "Creature 2",
+      "type": "Creature 3",
       "traits": [
         "Medium",
         "Mindless",
@@ -4182,7 +4183,7 @@
         },
         {
           "name": "HP",
-          "text": "39",
+          "text": "60",
           "newline": true
         },
         {
@@ -4201,8 +4202,13 @@
         {
           "name": "Melee",
           "action": "single",
-          "text": "fist +11 1d12+5 B + Grab",
+          "text": "fist +14 1d12+6 B + Grab",
           "newline": true
+        },
+        {
+          "name": "Reactive Strike",
+          "newline": true,
+          "text": "[reaction]"
         },
         {
           "name": "Grab",
@@ -4422,6 +4428,116 @@
           "newline": true
         }
       ]
+    },
+    {
+      "name": "Grevik",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+8; darkvision"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Acrobatics +8, Arcana +7, Athletics +10, Crafting +9, Nature +6, Occultism +7, Stealth +8, Survival +6"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+4"
+        },
+        {
+          "name": "Dex",
+          "text": "+2"
+        },
+        {
+          "name": "Con",
+          "text": "+2"
+        },
+        {
+          "name": "Int",
+          "text": "+1"
+        },
+        {
+          "name": "Wis",
+          "text": "+0"
+        },
+        {
+          "name": "Cha",
+          "text": "+0"
+        },
+        {
+          "name": "Items",
+          "newline": true,
+          "text": "+1 Slick Studded Leather Armor, 3 Scroll of Invisibility"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "21"
+        },
+        {
+          "name": "Fort",
+          "text": "+10"
+        },
+        {
+          "name": "Ref",
+          "text": "+10"
+        },
+        {
+          "name": "Will",
+          "text": "+8"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "58"
+        },
+        {
+          "name": "Trick Magic Item (Scroll Dedication)",
+          "newline": true,
+          "text": "[single] DC Item level to enable magic item use for the rest of the turn (+2 on checks)"
+        },
+        {
+          "name": "Hunt Prey",
+          "newline": true,
+          "text": "[single] Mark prey to hunt (+2 circumstance to Seek, Track)"
+        },
+        {
+          "name": "Hunted Shot",
+          "newline": true,
+          "text": "[single] Make 2 Strikes against prey. Combine damage vs resistance/weaknesses"
+        },
+        {
+          "name": "Quick Draw",
+          "newline": true,
+          "text": "[single] Draw weapon and Strike"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "35"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "Rapier +10 d6+4 Piercing"
+        },
+        {
+          "action": "single",
+          "name": "Ranged",
+          "newline": true,
+          "text": "Striking +1 Composite Shortbow +8 d6+2 Piercing"
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Elf",
+        "Undead",
+        "Unholy"
+      ],
+      "type": "Ranger 4"
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -4571,6 +4687,13 @@
     {
       "path": "dm-cheatsheet.md",
       "label": "Dm Cheatsheet",
+      "tags": [
+        "docs"
+      ]
+    },
+    {
+      "path": "temple-secret-path.md",
+      "label": "Temple Secret Path",
       "tags": [
         "docs"
       ]
@@ -5355,6 +5478,13 @@
       "tags": [
         "location"
       ]
+    },
+    {
+      "path": "temple-second-floor.jpeg",
+      "label": "Temple Second Floor",
+      "tags": [
+        "battlemap"
+      ]
     }
   ],
   "maps": [
@@ -5527,6 +5657,30 @@
       ],
       "notes": "",
       "level": 3
+    }
+  ],
+  "temple": [
+    {
+      "path": "temple-secret-path.md",
+      "label": "TEMPLE SECRET PATH.MD",
+      "tags": [],
+      "entry": {
+        "path": "temple-secret-path.md",
+        "label": "TEMPLE SECRET PATH.MD",
+        "tags": []
+      }
+    }
+  ],
+  "events.md": [
+    {
+      "path": "events.md",
+      "label": "EVENTS.MD",
+      "tags": [],
+      "entry": {
+        "path": "events.md",
+        "label": "EVENTS.MD",
+        "tags": []
+      }
     }
   ]
 }

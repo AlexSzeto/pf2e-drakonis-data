@@ -4697,6 +4697,13 @@
       "tags": [
         "docs"
       ]
+    },
+    {
+      "path": "temple-viewing-chamber.md",
+      "label": "Temple Viewing Chamber",
+      "tags": [
+        "docs"
+      ]
     }
   ],
   "id": "shadow-of-ashes",
@@ -5667,6 +5674,16 @@
       "entry": {
         "path": "temple-secret-path.md",
         "label": "TEMPLE SECRET PATH.MD",
+        "tags": []
+      }
+    },
+    {
+      "path": "temple-viewing-chamber.md",
+      "label": "TEMPLE VIEWING CHAMBER.MD",
+      "tags": [],
+      "entry": {
+        "path": "temple-viewing-chamber.md",
+        "label": "TEMPLE VIEWING CHAMBER.MD",
         "tags": []
       }
     }

@@ -1976,6 +1976,93 @@
       "type": "Creature 3"
     },
     {
+      "name": "Brown Maggots",
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+11;"
+        },
+        {
+          "name": "Skills",
+          "newline": true,
+          "text": "Athletics +11"
+        },
+        {
+          "name": "Str",
+          "newline": true,
+          "text": "+5"
+        },
+        {
+          "name": "Dex",
+          "text": "-1"
+        },
+        {
+          "name": "Con",
+          "text": "+5"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "-1"
+        },
+        {
+          "name": "Cha",
+          "text": "-1"
+        },
+        {
+          "hr": true,
+          "name": "AC",
+          "text": "18"
+        },
+        {
+          "name": "Fort",
+          "text": "+12"
+        },
+        {
+          "name": "Ref",
+          "text": "+8"
+        },
+        {
+          "name": "Will",
+          "text": "+4"
+        },
+        {
+          "name": "HP",
+          "newline": true,
+          "text": "48"
+        },
+        {
+          "hr": true,
+          "name": "Speed",
+          "text": "40"
+        },
+        {
+          "name": "Burrow",
+          "text": "40"
+        },
+        {
+          "action": "single",
+          "name": "Melee",
+          "newline": true,
+          "text": "jaws +10 (deadly 1d6) 1d10+3 P and Digestive Leech"
+        },
+        {
+          "action": "reaction",
+          "name": "Digestive Leech",
+          "newline": true,
+          "text": "**Trigger** on first hit in round; **Effect** (disease) fortitude saving throw DC 18. 1d8 acid damage and on failed save drain 1."
+        }
+      ],
+      "traits": [
+        "Medium",
+        "Animal"
+      ],
+      "type": "Creature 4"
+    },
+    {
       "name": "Kobold Scout",
       "stats": [
         {
@@ -3567,12 +3654,13 @@
         },
         {
           "name": "Construct Armor",
-          "text": "Reduce all damage by (**Hardness** 6). After reduced below half HP or taking a critical hit, armor is broken (**AC** to 15, no more hardness)",
+          "text": "Reduce all damage by (**Hardness** 6). After reduced below half HP or taking a critical hit, heartstone is broken (**AC** to 15, no more hardness)",
           "newline": true
         },
         {
-          "name": "Heartstone",
-          "text": "A critical hit attacks the heartstone directly. The heartstone has **Hardness 6** but any damage dealt to it destroys the animated statue immediately.",
+          "name": "Frostbeam",
+          "action": "double",
+          "text": "60ft, 3d4 cold damage, basic fort save DC 18, on crit fail apply weakness 2 to bludgeoning until start of next turn",
           "newline": true
         }
       ]
@@ -3773,6 +3861,93 @@
           "name": "Reform",
           "action": "reaction",
           "text": "When 3 fragments or more are next to each other, they can spend [reaction] to reform its large body.",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Purple Slime Spawn",
+      "type": "Creature 4",
+      "traits": [
+        "Medium",
+        "Mindless",
+        "Ooze"
+      ],
+      "stats": [
+        {
+          "name": "Base Creature",
+          "text": "Weak Tomb Jelly"
+        },
+        {
+          "name": "Perception",
+          "text": "+5; Lifesense 20 ft",
+          "newline": true
+        },
+        {
+          "name": "Skills",
+          "text": "Athletics +11",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "+6",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "-5"
+        },
+        {
+          "name": "Con",
+          "text": "+6"
+        },
+        {
+          "name": "Int",
+          "text": "-5"
+        },
+        {
+          "name": "Wis",
+          "text": "0"
+        },
+        {
+          "name": "Cha",
+          "text": "-5"
+        },
+        {
+          "name": "AC",
+          "text": "10",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+13"
+        },
+        {
+          "name": "Ref",
+          "text": "+2"
+        },
+        {
+          "name": "Will",
+          "text": "+5"
+        },
+        {
+          "name": "HP",
+          "text": "37",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "acid, bleed, critical hits, mental, precision, slashing, unconscious, visual, void"
+        },
+        {
+          "name": "Speed",
+          "text": "15 (climb 10)",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "pseudopod +13 1d8+4 B, 1d6 acid",
           "newline": true
         }
       ]
@@ -4538,6 +4713,187 @@
         "Unholy"
       ],
       "type": "Ranger 4"
+    },
+    {
+      "name": "Oathkeeper Nyzassa",
+      "type": "Creature 6",
+      "traits": [
+        "Medium",
+        "Undead",
+        "Unholy"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+8; darkvision"
+        },
+        {
+          "name": "Skills",
+          "text": "Intimidation +6, Arcana +8, Religion +8",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "0",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+4"
+        },
+        {
+          "name": "Con",
+          "text": "+1"
+        },
+        {
+          "name": "Int",
+          "text": "+4"
+        },
+        {
+          "name": "Wis",
+          "text": "+4"
+        },
+        {
+          "name": "Cha",
+          "text": "+0"
+        },
+        {
+          "name": "Items",
+          "text": "Staff, ",
+          "newline": true
+        },
+        {
+          "name": "AC",
+          "text": "21",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+11"
+        },
+        {
+          "name": "Ref",
+          "text": "+11"
+        },
+        {
+          "name": "Will",
+          "text": "+14"
+        },
+        {
+          "name": "HP",
+          "text": "90",
+          "newline": true
+        },
+        {
+          "name": "Immunities",
+          "text": "bleed, death effects, disease, paralyzed, poison, unconscious"
+        },
+        {
+          "name": "Weaknesses",
+          "text": "slashing 6, vitality 6"
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Melee",
+          "action": "single",
+          "text": "Staff +15 2d6+8 B",
+          "newline": true
+        },
+        {
+          "name": "Frightful Presence",
+          "action": "single",
+          "text": "(aura, emotion, fear, mental) 60ft, DC 22",
+          "newline": true
+        },
+        {
+          "name": "Spells",
+          "text": "DC 22 (attack + 12); **3rd** paralyze, blindness; **2nd** dispel magic, noise blast; **1st** command, enfeeble; **Cantrips** void warp, shield",
+          "newline": true
+        }
+      ]
+    },
+    {
+      "name": "Prince Renu",
+      "type": "Creature 5",
+      "traits": [
+        "Medium",
+        "Elf",
+        "Cavern Elf",
+        "Humanoid"
+      ],
+      "stats": [
+        {
+          "name": "Perception",
+          "text": "+0; darkvision"
+        },
+        {
+          "name": "Skills",
+          "text": "Intimidation +6, Arcana +8, Religion +8",
+          "newline": true
+        },
+        {
+          "name": "Str",
+          "text": "0",
+          "newline": true
+        },
+        {
+          "name": "Dex",
+          "text": "+4"
+        },
+        {
+          "name": "Con",
+          "text": "+1"
+        },
+        {
+          "name": "Int",
+          "text": "+4"
+        },
+        {
+          "name": "Wis",
+          "text": "+4"
+        },
+        {
+          "name": "Cha",
+          "text": "+0"
+        },
+        {
+          "name": "AC",
+          "text": "21",
+          "hr": true
+        },
+        {
+          "name": "Fort",
+          "text": "+11"
+        },
+        {
+          "name": "Ref",
+          "text": "+11"
+        },
+        {
+          "name": "Will",
+          "text": "+14"
+        },
+        {
+          "name": "HP",
+          "text": "54",
+          "newline": true
+        },
+        {
+          "name": "Speed",
+          "text": "25",
+          "hr": true
+        },
+        {
+          "name": "Frightful Presence",
+          "action": "turn",
+          "text": "channel an invulerable barrier around the Tear of Xovina and restore all HP.",
+          "newline": true
+        }
+      ]
     }
   ],
   "description": "Continuing Adventures in Uruzad Wilds",
@@ -5502,7 +5858,7 @@
     },
     {
       "path": "portrait-elara.jpg",
-      "label": "Elara",
+      "label": "Nyzassa",
       "tags": [
         "portrait"
       ]
@@ -5545,6 +5901,20 @@
     {
       "path": "location-ritual-chamber-animated.webp",
       "label": "Ritual Chamber Animated",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-keroc-at-night.jpg",
+      "label": "Keroc at Night",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-xyndrasis-survives.jpg",
+      "label": "Xyndrasis Survives",
       "tags": [
         "location"
       ]

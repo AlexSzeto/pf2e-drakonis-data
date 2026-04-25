@@ -60,6 +60,13 @@
       "tags": [
         "looping"
       ]
+    },
+    {
+      "path": "heartbeat.mp3",
+      "label": "Heartbeat",
+      "tags": [
+        "looping"
+      ]
     }
   ],
   "bgms": [
@@ -5943,6 +5950,13 @@
     {
       "path": "location-xyndrasis-survives.jpg",
       "label": "Xyndrasis Survives",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-infinite-ocean.jpg",
+      "label": "Infinite Ocean",
       "tags": [
         "location"
       ]

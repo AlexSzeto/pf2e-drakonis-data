@@ -5484,13 +5484,55 @@
       "label": "Viewing Chamber, Corrupted",
       "tags": [
         "location"
-      ]
+      ],
+      "entry": {
+        "path": "location-viewing-chamber,-corrupted.jpg",
+        "label": "Viewing Chamber, Corrupted",
+        "tags": [
+          "location"
+        ]
+      }
     },
     {
       "path": "temple-second-floor.jpeg",
       "label": "Temple Second Floor",
       "tags": [
         "battlemap"
+      ]
+    },
+    {
+      "path": "portrait-elara.jpg",
+      "label": "Elara",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-ritual-chamber.jpg",
+      "label": "Ritual Chamber",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "portrait-xovina-child-form.jpg",
+      "label": "Xovina Child Form",
+      "tags": [
+        "portrait"
+      ]
+    },
+    {
+      "path": "location-shadow-labs.jpg",
+      "label": "Shadow Labs",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "path": "location-geomancy-tunnel.jpg",
+      "label": "Geomancy Tunnel",
+      "tags": [
+        "location"
       ]
     }
   ],

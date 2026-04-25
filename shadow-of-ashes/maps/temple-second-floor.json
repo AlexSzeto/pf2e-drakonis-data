@@ -243,12 +243,6 @@
       "y": 960
     },
     {
-      "path": "SS-Entrance-QuarryWall-v.1.1.png",
-      "rotation": 90,
-      "x": 3180,
-      "y": 480
-    },
-    {
       "path": "E-QuarryFloor.png",
       "rotation": 0,
       "x": 2940,
@@ -301,18 +295,6 @@
       "rotation": 0,
       "x": 2700,
       "y": 120
-    },
-    {
-      "path": "SS-QuarryWall-v.1.2.png",
-      "rotation": 180,
-      "x": 2940,
-      "y": 960
-    },
-    {
-      "path": "X-TRP-HeavyWall.png",
-      "rotation": 0,
-      "x": 1200,
-      "y": 960
     },
     {
       "path": "X-TRP-HeavyWall.png",
@@ -739,6 +721,66 @@
       "rotation": 90,
       "x": 1620,
       "y": 2280
+    },
+    {
+      "path": "SS-Entrance-QuarryWall-v.1.1.png",
+      "rotation": 180,
+      "x": 2940,
+      "y": 960
+    },
+    {
+      "path": "SS-QuarryWall-v.1.2.png",
+      "rotation": 90,
+      "x": 3180,
+      "y": 480
+    },
+    {
+      "path": "E-TRP-Cavern-Tiles-Stairs.png",
+      "rotation": 180,
+      "x": 2940,
+      "y": 1080
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 90,
+      "x": 2940,
+      "y": 1320
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 0,
+      "x": 2700,
+      "y": 1320
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 0,
+      "x": 2460,
+      "y": 1320
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 0,
+      "x": 2220,
+      "y": 1320
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 0,
+      "x": 1980,
+      "y": 1320
+    },
+    {
+      "path": "E-QuarryFloor.png",
+      "rotation": 0,
+      "x": 1740,
+      "y": 1320
+    },
+    {
+      "path": "X-TRP-HeavyWall.png",
+      "rotation": 0,
+      "x": 1200,
+      "y": 960
     }
   ],
   "props": [

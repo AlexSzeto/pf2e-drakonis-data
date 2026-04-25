@@ -5541,6 +5541,13 @@
       "tags": [
         "location"
       ]
+    },
+    {
+      "path": "location-ritual-chamber-animated.webp",
+      "label": "Ritual Chamber Animated",
+      "tags": [
+        "location"
+      ]
     }
   ],
   "maps": [

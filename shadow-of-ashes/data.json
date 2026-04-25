@@ -5534,6 +5534,13 @@
       "tags": [
         "location"
       ]
+    },
+    {
+      "path": "location-viewing-chamber,-corrupted.webp",
+      "label": "Viewing Chamber, Corrupted",
+      "tags": [
+        "location"
+      ]
     }
   ],
   "maps": [
